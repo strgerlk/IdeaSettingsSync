@@ -5,8 +5,6 @@
   <component name="VimHistorySettings">
     <history>
       <history-search>
-        <entry encoding="base64">XDxxdWVyeVRpbWVTdGF0XD4=</entry>
-        <entry>颗粒</entry>
         <entry>deal</entry>
         <entry>2020-01-01</entry>
         <entry encoding="base64">XDxxdWVyeVhxZHdQaWVDaGFydFw+</entry>
@@ -25,6 +23,8 @@
         <entry>bs_aitype_favorite_case</entry>
         <entry>build</entry>
         <entry>shyqfx</entry>
+        <entry>logger</entry>
+        <entry>main</entry>
       </history-search>
       <history-cmd>
         <entry>%s/乱点/串并/g</entry>
@@ -167,29 +167,11 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
-      <file name="/Dummy.txt" timestamp="1591840950082">
-        <mark key="[" line="0" column="0" />
-      </file>
       <file name="/bs_sys_config_configuretablerelation [Mysql-101]" timestamp="1591874150432">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="/console" timestamp="1591874152131">
         <mark key="[" line="0" column="0" />
-      </file>
-      <file name="/a_pf_user_perm_xqdw [Mysql-101]" timestamp="1591874149818">
-        <mark key="[" line="0" column="0" />
-      </file>
-      <file name="$USER_HOME$/bs_param_classify_2020_06_10_16_48_16.txt" timestamp="1591778935273">
-        <mark key="[" line="0" column="1" />
-        <mark key="]" line="0" column="1" />
-        <mark key="^" line="0" column="1" />
-        <mark key="." line="0" column="0" />
-      </file>
-      <file name="$USER_HOME$/bs_param_classify_2020_06_10_16_50_30.txt" timestamp="1591779046828">
-        <mark key="[" line="0" column="1" />
-        <mark key="]" line="0" column="1" />
-        <mark key="^" line="0" column="1" />
-        <mark key="." line="0" column="0" />
       </file>
       <file name="/va_dev.a_pf_user_perm_xqdw" timestamp="1591874149845">
         <mark key="[" line="0" column="0" />
@@ -200,13 +182,7 @@
         <mark key="]" line="128" column="0" />
         <mark key="." line="128" column="0" />
       </file>
-      <file name="/analysisplatform.bs_sys_config_configuretablerelation" timestamp="1591874150473">
-        <mark key="[" line="0" column="0" />
-      </file>
       <file name="/a.sql" timestamp="1591840938305">
-        <mark key="[" line="0" column="0" />
-      </file>
-      <file name="/foo.bar" timestamp="1591874150551">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$APPLICATION_CONFIG_DIR$/scratches/rest-api_1.http" timestamp="1591874219146">
@@ -229,12 +205,12 @@
       <file name="/default" timestamp="1591840860269">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="/vdata/company/workspaces/data_center_java_backend/src/main/java/com/mingyi/platform4j/util/HttpUtil.java" timestamp="1591875849165">
-        <mark key="'" line="86" column="0" />
-        <mark key="[" line="129" column="20" />
-        <mark key="]" line="129" column="26" />
-        <mark key="." line="129" column="25" />
-        <mark key="^" line="129" column="26" />
+      <file name="/vdata/company/workspaces/data_center_java_backend/src/main/java/com/mingyi/platform4j/util/HttpUtil.java" timestamp="1591881611308">
+        <mark key="'" line="27" column="0" />
+        <mark key="[" line="26" column="2" />
+        <mark key="]" line="26" column="4" />
+        <mark key="^" line="26" column="4" />
+        <mark key="." line="26" column="3" />
       </file>
       <file name="/dummy.sql" timestamp="1591840951172">
         <mark key="[" line="0" column="0" />
@@ -245,12 +221,32 @@
         <mark key="." line="17" column="30" />
         <mark key="^" line="17" column="31" />
       </file>
+      <file name="/vdata/company/workspaces/data_center_java_backend/src/main/resources/config/logback-spring.xml" timestamp="1591881581252">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="25" column="19" />
+        <mark key="^" line="25" column="19" />
+        <mark key="." line="25" column="18" />
+      </file>
+      <file name="/Dummy.txt" timestamp="1591840950082">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="/a_pf_user_perm_xqdw [Mysql-101]" timestamp="1591874149818">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="/analysisplatform.bs_sys_config_configuretablerelation" timestamp="1591874150473">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="/foo.bar" timestamp="1591874150551">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="/opt/jdk1.8.0_231/src.zip!/java/lang/Thread.java" timestamp="1591881162204">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="530" column="17" />
+        <mark key="^" line="530" column="17" />
+        <mark key="." line="530" column="16" />
+      </file>
     </filemarks>
     <jumps>
-      <jump line="136" column="41" filename="$APPLICATION_CONFIG_DIR$/consoles/db/e28fa94b-e855-4133-91c0-76216abe406c/console.sql" />
-      <jump line="155" column="0" filename="$APPLICATION_CONFIG_DIR$/consoles/db/e28fa94b-e855-4133-91c0-76216abe406c/console.sql" />
-      <jump line="157" column="0" filename="$APPLICATION_CONFIG_DIR$/consoles/db/e28fa94b-e855-4133-91c0-76216abe406c/console.sql" />
-      <jump line="191" column="0" filename="$APPLICATION_CONFIG_DIR$/consoles/db/e28fa94b-e855-4133-91c0-76216abe406c/console.sql" />
       <jump line="193" column="41" filename="$APPLICATION_CONFIG_DIR$/consoles/db/e28fa94b-e855-4133-91c0-76216abe406c/console.sql" />
       <jump line="201" column="0" filename="$APPLICATION_CONFIG_DIR$/consoles/db/e28fa94b-e855-4133-91c0-76216abe406c/console.sql" />
       <jump line="202" column="0" filename="$APPLICATION_CONFIG_DIR$/consoles/db/e28fa94b-e855-4133-91c0-76216abe406c/console.sql" />
@@ -346,7 +342,11 @@
       <jump line="36" column="0" filename="/lns/workspaces/fw4j/fw4j-common/src/main/java/com/vbrug/fw4j/common/utils/ShellUtil.java" />
       <jump line="58" column="0" filename="$APPLICATION_CONFIG_DIR$/consoles/db/a4da4a96-f0ac-4b74-8cc6-9017695f0b75/console.sql" />
       <jump line="30" column="0" filename="$APPLICATION_CONFIG_DIR$/consoles/db/e28fa94b-e855-4133-91c0-76216abe406c/yqfx.sql" />
-      <jump line="83" column="0" filename="/vdata/company/workspaces/data_center_java_backend/src/main/java/com/mingyi/platform4j/util/HttpUtil.java" />
+      <jump line="143" column="16" filename="/vdata/company/workspaces/data_center_java_backend/src/main/java/com/mingyi/platform4j/util/HttpUtil.java" />
+      <jump line="26" column="34" filename="/vdata/company/workspaces/data_center_java_backend/src/main/java/com/mingyi/platform4j/util/HttpUtil.java" />
+      <jump line="83" column="9" filename="/vdata/company/workspaces/data_center_java_backend/src/main/java/com/mingyi/platform4j/util/HttpUtil.java" />
+      <jump line="108" column="9" filename="/vdata/company/workspaces/data_center_java_backend/src/main/java/com/mingyi/platform4j/util/HttpUtil.java" />
+      <jump line="27" column="0" filename="/vdata/company/workspaces/data_center_java_backend/src/main/java/com/mingyi/platform4j/util/HttpUtil.java" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
@@ -354,44 +354,44 @@
       <register name="&quot;" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="*" type="4">
-        <text>String</text>
+      <register name="*" type="2">
+        <text encoding="base64">ICAgICAgICBTeXN0ZW0ub3V0LnByaW50bG4ocyk7Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>String</text>
+        <text encoding="base64">dm9pZCA=</text>
       </register>
       <register name="/" type="4">
-        <text>shyqfx</text>
+        <text>main</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgcGFyYW1NYXAucHV0KCJjbGllbnRpZCIsICIxMjMiKTsK</text>
+        <text encoding="base64">ICAgICAgICBTdHJpbmcgcyA9IEh0dHBVdGlsLmRvUG9zdE5vUmV0dXJuMigiaHR0cDovLzM5Ljk4LjE2OS4xMDE6NDQ1MS9iaWdkYXRhLzExMC9zaW1pbGFyU2luZ2xlIiwgSHR0cFV0aWwuaGFuZGxlUGFyYW0oKSk7CiAgICAgICAgU3lzdGVtLm91dC5wcmludGxuKHMpOwo=</text>
       </register>
-      <register name="1" type="4">
-        <text encoding="base64">CiAgICAgICAgICAgICAgICAiXCJtZXNzYWdlaWRcIjpcIjEyM1wiLFwiY2xpZW50aWRcIjpcIjEyM1wiLCBcImVuY3J5cHRcIjpcIkZhbHNlXCIsIFwicGFyYW1fc3RyXCI6e1widGV4dFwiOlwiMTExXCIsIFwiY2FzZW5vXCI6XCIxMjNcIn0i</text>
+      <register name="1" type="2">
+        <text encoding="base64">ICAgICAgICBTeXN0ZW0ub3V0LnByaW50bG4ocyk7Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBtYXAucHV0KCJlbmNyeXB0IiwgIjAiKTsK</text>
+        <text encoding="base64">ICAgICAgICBTdHJpbmcgcyA9IEh0dHBVdGlsLmRvUG9zdE5vUmV0dXJuMigiaHR0cDovLzM5Ljk4LjE2OS4xMDE6NDQ1MS9iaWdkYXRhLzExMC9zaW1pbGFyU2luZ2xlIiwgSHR0cFV0aWwuaGFuZGxlUGFyYW0oKSk7Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBpZiAoImFpdHlwZSIuZXF1YWxzKHR5cGUpKQogICAgICAgICAgICBwYXJhbU1hcC5wdXQoImNsYXNzX2h0dHAiLCBUQ29uZmlnLmFpdHlwZS5nZXRDbGFzc0h0dHAoKSk7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgU3lzdGVtLm91dC5wcmludGxuKHMpOwo=</text>
       </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBwYXJhbU1hcC5wdXQoImNhbGxiYWNrVXJsIiwgVENvbmZpZy5zeXMuZ2V0Q2FsbGJhY2tVcmwoKSk7Cg==</text>
+      <register name="4" type="4">
+        <text encoding="base64">IFN0cmluZyBzID0gSHR0cFV0aWwuZG9Qb3N0Tm9SZXR1cm4yKCJodHRwOi8vMzkuOTguMTY5LjEwMTo0NDUxL2JpZ2RhdGEvMTEwL3NpbWlsYXJTaW5nbGUiLCBIdHRwVXRpbC5oYW5kbGVQYXJhbSgpKTsKICAgICAgICBTeXN0ZW0ub3V0LnByaW50bG4ocyk7</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBwYXJhbU1hcC5wdXQoImxvY19vdXQiLCBtY29uZmlnLmdldERvY2tlclJlc3VsdFBhdGgoKSk7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgY2xpZW50LmNsb3NlKCk7Cg==</text>
       </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBwYXJhbU1hcC5wdXQoImxvY19pbiIsIG1jb25maWcuZ2V0RG9ja2VyUGF0aCgpKTsK</text>
+      <register name="6" type="4">
+        <text encoding="base64">CiAgICAgICAgICAgICAgICAiXCJtZXNzYWdlaWRcIjpcIjEyM1wiLFwiY2xpZW50aWRcIjpcIjEyM1wiLCBcImVuY3J5cHRcIjpcIkZhbHNlXCIsIFwicGFyYW1fc3RyXCI6e1widGV4dFwiOlwiMTExXCIsIFwiY2FzZW5vXCI6XCIxMjNcIn0i</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">awo=</text>
+        <text encoding="base64">ICAgICAgICBtYXAucHV0KCJlbmNyeXB0IiwgIjAiKTsK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAgICAgICBpZiAoImFpdHlwZSIuZXF1YWxzKHR5cGUpKQogICAgICAgICAgICBwYXJhbU1hcC5wdXQoImNsYXNzX2h0dHAiLCBUQ29uZmlnLmFpdHlwZS5nZXRDbGFzc0h0dHAoKSk7Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Y2xhc3NpZnlDb2RlPTE5MAo=</text>
+        <text encoding="base64">ICAgICAgICBwYXJhbU1hcC5wdXQoImNhbGxiYWNrVXJsIiwgVENvbmZpZy5zeXMuZ2V0Q2FsbGJhY2tVcmwoKSk7Cg==</text>
       </register>
       <register name=":" type="4">
         <text>%s/bs_aitype_favorite_case/bs_case_favorite_relation/g</text>
@@ -400,13 +400,13 @@
   </component>
   <component name="VimSearchSettings">
     <search>
-      <last-search>shyqfx</last-search>
+      <last-search>main</last-search>
       <last-offset />
-      <last-pattern>shyqfx</last-pattern>
+      <last-pattern>main</last-pattern>
       <last-replace>bs_case_favorite_relation</last-replace>
       <last-substitute>bs_aitype_favorite_case</last-substitute>
       <last-dir>1</last-dir>
-      <show-last>false</show-last>
+      <show-last>true</show-last>
     </search>
   </component>
   <component name="VimSettings">
