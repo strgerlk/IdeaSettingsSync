@@ -173,13 +173,13 @@
         <mark key="." line="24" column="3" />
         <mark key="^" line="24" column="4" />
       </file>
-      <file name="/Dummy.txt" timestamp="1591843934312">
+      <file name="/Dummy.txt" timestamp="1591840950082">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="/bs_sys_config_configuretablerelation [Mysql-101]" timestamp="1591791723120">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="/console" timestamp="1591791724004">
+      <file name="/console" timestamp="1591842667131">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="/a_pf_user_perm_xqdw [Mysql-101]" timestamp="1591840918578">
@@ -209,7 +209,7 @@
       <file name="/analysisplatform.bs_sys_config_configuretablerelation" timestamp="1591791723138">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="/a.sql" timestamp="1591843934280">
+      <file name="/a.sql" timestamp="1591840938305">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="/foo.bar" timestamp="1591840918612">
@@ -225,11 +225,14 @@
       <file name="/yqfx" timestamp="1591791765277">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="/EasyCodeTemplate.vm.ft" timestamp="1591844413011">
-        <mark key="[" line="0" column="0" />
-      </file>
       <file name="/default" timestamp="1591840860269">
         <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/e28fa94b-e855-4133-91c0-76216abe406c/console.sql" timestamp="1591758199081">
+        <mark key="[" line="164" column="48" />
+        <mark key="]" line="167" column="68" />
+        <mark key="^" line="167" column="68" />
+        <mark key="." line="167" column="67" />
       </file>
       <file name="/lns/workspaces/fw4j/fw4j-common/src/main/java/com/vbrug/fw4j/common/utils/ShellUtil.java" timestamp="1591774745396">
         <mark key="'" line="36" column="0" />
