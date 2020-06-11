@@ -228,12 +228,6 @@
       <file name="/default" timestamp="1591840860269">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/e28fa94b-e855-4133-91c0-76216abe406c/console.sql" timestamp="1591758199081">
-        <mark key="[" line="164" column="48" />
-        <mark key="]" line="167" column="68" />
-        <mark key="^" line="167" column="68" />
-        <mark key="." line="167" column="67" />
-      </file>
       <file name="/lns/workspaces/fw4j/fw4j-common/src/main/java/com/vbrug/fw4j/common/utils/ShellUtil.java" timestamp="1591774745396">
         <mark key="'" line="36" column="0" />
         <mark key="[" line="44" column="1" />
