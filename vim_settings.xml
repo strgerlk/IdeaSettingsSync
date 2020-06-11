@@ -179,7 +179,7 @@
       <file name="/bs_sys_config_configuretablerelation [Mysql-101]" timestamp="1591791723120">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="/console" timestamp="1591842667131">
+      <file name="/console" timestamp="1591844805570">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="/a_pf_user_perm_xqdw [Mysql-101]" timestamp="1591840918578">
@@ -215,12 +215,12 @@
       <file name="/foo.bar" timestamp="1591840918612">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/a4da4a96-f0ac-4b74-8cc6-9017695f0b75/console.sql" timestamp="1591791534579">
+      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/a4da4a96-f0ac-4b74-8cc6-9017695f0b75/console.sql" timestamp="1591846396008">
         <mark key="'" line="58" column="0" />
-        <mark key="[" line="111" column="236" />
-        <mark key="]" line="111" column="236" />
-        <mark key="." line="111" column="235" />
-        <mark key="^" line="111" column="236" />
+        <mark key="[" line="111" column="24" />
+        <mark key="]" line="111" column="24" />
+        <mark key="." line="111" column="23" />
+        <mark key="^" line="111" column="24" />
       </file>
       <file name="/yqfx" timestamp="1591791765277">
         <mark key="[" line="0" column="0" />
