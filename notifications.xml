@@ -1,5 +1,0 @@
-<application>
-  <component name="NotificationConfiguration">
-    <notification groupId="Database queries that took much time" shouldLog="false" />
-  </component>
-</application>
