@@ -167,13 +167,25 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
-      <file name="/bs_sys_config_configuretablerelation [Mysql-101]" timestamp="1591874150432">
+      <file name="/vdata/company/workspaces/data_center_java_backend/src/main/resources/config/logback-spring.xml" timestamp="1591881581252">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="25" column="19" />
+        <mark key="^" line="25" column="19" />
+        <mark key="." line="25" column="18" />
+      </file>
+      <file name="/Dummy.txt" timestamp="1591887812071">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="/console" timestamp="1591887812138">
+      <file name="/bs_sys_config_configuretablerelation [Mysql-101]" timestamp="1591930079386">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="/va_dev.a_pf_user_perm_xqdw" timestamp="1591874149845">
+      <file name="/console" timestamp="1591930080072">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="/a_pf_user_perm_xqdw [Mysql-101]" timestamp="1591930079357">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="/va_dev.a_pf_user_perm_xqdw" timestamp="1591930079366">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$APPLICATION_CONFIG_DIR$/consoles/db/e28fa94b-e855-4133-91c0-76216abe406c/yqfx.sql" timestamp="1591888718994">
@@ -181,6 +193,9 @@
         <mark key="[" line="128" column="0" />
         <mark key="]" line="128" column="0" />
         <mark key="." line="128" column="0" />
+      </file>
+      <file name="/analysisplatform.bs_sys_config_configuretablerelation" timestamp="1591930079389">
+        <mark key="[" line="0" column="0" />
       </file>
       <file name="/a.sql" timestamp="1591887812059">
         <mark key="[" line="0" column="0" />
@@ -191,6 +206,9 @@
         <mark key="^" line="135" column="86" />
         <mark key="." line="135" column="0" />
       </file>
+      <file name="/foo.bar" timestamp="1591930079391">
+        <mark key="[" line="0" column="0" />
+      </file>
       <file name="$APPLICATION_CONFIG_DIR$/consoles/db/a4da4a96-f0ac-4b74-8cc6-9017695f0b75/console.sql" timestamp="1591874137656">
         <mark key="'" line="58" column="0" />
         <mark key="[" line="110" column="0" />
@@ -198,9 +216,14 @@
         <mark key="." line="110" column="0" />
         <mark key="^" line="110" column="0" />
       </file>
-      <file name="/vdata/company/workspaces/data_center_java_backend/src/main/java/com/mingyi/project/alg/helper/AlgHelper.java" timestamp="1591875588549" />
-      <file name="/yqfx" timestamp="1591874151884">
+      <file name="/yqfx" timestamp="1591930079862">
         <mark key="[" line="0" column="0" />
+      </file>
+      <file name="/opt/jdk1.8.0_231/src.zip!/java/lang/Thread.java" timestamp="1591881162204">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="530" column="17" />
+        <mark key="^" line="530" column="17" />
+        <mark key="." line="530" column="16" />
       </file>
       <file name="/default" timestamp="1591840860269">
         <mark key="[" line="0" column="0" />
@@ -214,30 +237,6 @@
       </file>
       <file name="/dummy.sql" timestamp="1591840951172">
         <mark key="[" line="0" column="0" />
-      </file>
-      <file name="/vdata/company/workspaces/data_center_java_backend/src/main/resources/config/logback-spring.xml" timestamp="1591881581252">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="25" column="19" />
-        <mark key="^" line="25" column="19" />
-        <mark key="." line="25" column="18" />
-      </file>
-      <file name="/Dummy.txt" timestamp="1591887812071">
-        <mark key="[" line="0" column="0" />
-      </file>
-      <file name="/a_pf_user_perm_xqdw [Mysql-101]" timestamp="1591874149818">
-        <mark key="[" line="0" column="0" />
-      </file>
-      <file name="/analysisplatform.bs_sys_config_configuretablerelation" timestamp="1591874150473">
-        <mark key="[" line="0" column="0" />
-      </file>
-      <file name="/foo.bar" timestamp="1591874150551">
-        <mark key="[" line="0" column="0" />
-      </file>
-      <file name="/opt/jdk1.8.0_231/src.zip!/java/lang/Thread.java" timestamp="1591881162204">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="530" column="17" />
-        <mark key="^" line="530" column="17" />
-        <mark key="." line="530" column="16" />
       </file>
       <file name="$APPLICATION_CONFIG_DIR$/consoles/db/94cbc1c6-2e49-453f-846d-850fdf2aa7ff/console.sql" timestamp="1591887929490">
         <mark key="[" line="19" column="29" />
@@ -406,7 +405,7 @@
       <last-replace>bs_case_favorite_relation</last-replace>
       <last-substitute>bs_aitype_favorite_case</last-substitute>
       <last-dir>1</last-dir>
-      <show-last>true</show-last>
+      <show-last>false</show-last>
     </search>
   </component>
   <component name="VimSettings">
