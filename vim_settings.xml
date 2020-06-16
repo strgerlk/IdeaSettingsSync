@@ -167,20 +167,13 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
-      <file name="/lns/cworkspaces/intelligent_analysis_backend/src/main/java/com/mingyi/webapp/spring/aop/CheckParamAspect.java" timestamp="1592289323988">
-        <mark key="'" line="44" column="6" />
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="24" column="32" />
-        <mark key="^" line="24" column="32" />
-        <mark key="." line="24" column="31" />
-      </file>
       <file name="/lns/cworkspaces/intelligent_analysis_backend/src/main/java/com/mingyi/project/console/caserevert/controller/CaseRevertController.java" timestamp="1592292031115">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="66" column="39" />
         <mark key="^" line="66" column="39" />
         <mark key="." line="66" column="38" />
       </file>
-      <file name="/EasyCodeTemplateDebug.vm.ft" timestamp="1592295011148">
+      <file name="/EasyCodeTemplateDebug.vm.ft" timestamp="1592297681867">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$APPLICATION_CONFIG_DIR$/scratches/rest-api_1.http" timestamp="1592292271900">
@@ -229,12 +222,6 @@
         <mark key="^" line="9" column="62" />
         <mark key="." line="9" column="61" />
       </file>
-      <file name="/lns/cworkspaces/intelligent_analysis_backend/src/main/java/com/mingyi/webapp/spring/aop/annotation/Check.java" timestamp="1592289290415">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="10" column="16" />
-        <mark key="^" line="10" column="16" />
-        <mark key="." line="10" column="15" />
-      </file>
       <file name="/lns/cworkspaces/intelligent_analysis_backend/src/main/resources/config/applicationContext-mvc.xml" timestamp="1592291315050">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="1" />
@@ -256,7 +243,12 @@
       <file name="/foo.bar" timestamp="1592292727279">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="/EasyCodeTemplate.vm.ft" timestamp="1592295029523" />
+      <file name="/lns/cworkspaces/intelligent_analysis_backend/src/main/java/com/mingyi/project/console/menu/entity/APfMenu.java" timestamp="1592297960135">
+        <mark key="'" line="73" column="6" />
+      </file>
+      <file name="/EasyCodeTemplate.vm.ft" timestamp="1592297970183">
+        <mark key="[" line="0" column="0" />
+      </file>
       <file name="$APPLICATION_CONFIG_DIR$/consoles/.datagrid/cell" timestamp="1592290431956">
         <mark key="[" line="0" column="2" />
         <mark key="]" line="0" column="1" />
@@ -265,9 +257,11 @@
       <file name="/va_dev.pf_auth_config" timestamp="1592292714491">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="/fragment.java" timestamp="1592297853032">
+        <mark key="[" line="0" column="0" />
+      </file>
     </filemarks>
     <jumps>
-      <jump line="17" column="0" filename="$APPLICATION_CONFIG_DIR$/consoles/db/e28fa94b-e855-4133-91c0-76216abe406c/console.sql" />
       <jump line="53" column="37" filename="/lns/cworkspaces/intelligent_analysis_backend/src/main/java/com/mingyi/project/aitype/classifystat/mapperh/ClassifyStatMapperH.xml" />
       <jump line="59" column="5" filename="/lns/cworkspaces/intelligent_analysis_backend/src/main/java/com/mingyi/project/aitype/dealstat/controller/DealStatController.java" />
       <jump line="80" column="31" filename="/lns/cworkspaces/intelligent_analysis_backend/src/main/java/com/mingyi/project/security/stat/service/impl/SecurityStatServiceImpl.java" />
@@ -367,6 +361,7 @@
       <jump line="44" column="6" filename="/lns/cworkspaces/intelligent_analysis_backend/src/main/java/com/mingyi/webapp/spring/aop/CheckParamAspect.java" />
       <jump line="49" column="3" filename="/lns/cworkspaces/intelligent_analysis_backend/docs/接口文档/控制台/警情回收.md" />
       <jump line="52" column="0" filename="/lns/cworkspaces/intelligent_analysis_backend/docs/接口文档/控制台/警情回收.md" />
+      <jump line="73" column="6" filename="/lns/cworkspaces/intelligent_analysis_backend/src/main/java/com/mingyi/project/console/menu/entity/APfMenu.java" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
