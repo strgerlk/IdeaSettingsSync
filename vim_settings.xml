@@ -173,7 +173,7 @@
         <mark key="^" line="25" column="19" />
         <mark key="." line="25" column="18" />
       </file>
-      <file name="/Dummy.txt" timestamp="1591887812071">
+      <file name="/Dummy.txt" timestamp="1592275700151">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="/bs_sys_config_configuretablerelation [Mysql-101]" timestamp="1591930079386">
@@ -197,7 +197,7 @@
       <file name="/analysisplatform.bs_sys_config_configuretablerelation" timestamp="1591930079389">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="/a.sql" timestamp="1591887812059">
+      <file name="/a.sql" timestamp="1592275671144">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$APPLICATION_CONFIG_DIR$/scratches/rest-api_1.http" timestamp="1591874219146">
@@ -209,13 +209,6 @@
       <file name="/foo.bar" timestamp="1591930079391">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/a4da4a96-f0ac-4b74-8cc6-9017695f0b75/console.sql" timestamp="1591874137656">
-        <mark key="'" line="58" column="0" />
-        <mark key="[" line="110" column="0" />
-        <mark key="]" line="110" column="0" />
-        <mark key="." line="110" column="0" />
-        <mark key="^" line="110" column="0" />
-      </file>
       <file name="/yqfx" timestamp="1591930079862">
         <mark key="[" line="0" column="0" />
       </file>
@@ -225,8 +218,13 @@
         <mark key="^" line="530" column="17" />
         <mark key="." line="530" column="16" />
       </file>
-      <file name="/default" timestamp="1591840860269">
+      <file name="/default" timestamp="1592275690311">
         <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$APPLICATION_CONFIG_DIR$/consoles/.datagrid/cell" timestamp="1592276435708">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="1" />
+        <mark key="." line="0" column="1" />
       </file>
       <file name="/vdata/company/workspaces/data_center_java_backend/src/main/java/com/mingyi/platform4j/util/HttpUtil.java" timestamp="1591881611308">
         <mark key="'" line="27" column="0" />
@@ -235,7 +233,7 @@
         <mark key="^" line="26" column="4" />
         <mark key="." line="26" column="3" />
       </file>
-      <file name="/dummy.sql" timestamp="1591840951172">
+      <file name="/dummy.sql" timestamp="1592275684680">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$APPLICATION_CONFIG_DIR$/consoles/db/94cbc1c6-2e49-453f-846d-850fdf2aa7ff/console.sql" timestamp="1591887929490">
@@ -243,6 +241,12 @@
         <mark key="]" line="19" column="67" />
         <mark key="^" line="19" column="67" />
         <mark key="." line="19" column="66" />
+      </file>
+      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/03a0a04a-f457-4d55-af20-a9316286cc80/console.sql" timestamp="1592276482077">
+        <mark key="[" line="33" column="122" />
+        <mark key="]" line="33" column="174" />
+        <mark key="^" line="33" column="174" />
+        <mark key="." line="33" column="173" />
       </file>
     </filemarks>
     <jumps>
@@ -353,44 +357,44 @@
       <register name="&quot;" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="*" type="2">
-        <text encoding="base64">ICAgICAgICBTeXN0ZW0ub3V0LnByaW50bG4ocyk7Cg==</text>
+      <register name="*" type="4">
+        <text>display_order</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">dm9pZCA=</text>
+        <text>display_order</text>
       </register>
       <register name="/" type="4">
         <text>main</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICBTdHJpbmcgcyA9IEh0dHBVdGlsLmRvUG9zdE5vUmV0dXJuMigiaHR0cDovLzM5Ljk4LjE2OS4xMDE6NDQ1MS9iaWdkYXRhLzExMC9zaW1pbGFyU2luZ2xlIiwgSHR0cFV0aWwuaGFuZGxlUGFyYW0oKSk7CiAgICAgICAgU3lzdGVtLm91dC5wcmludGxuKHMpOwo=</text>
+      <register name="0" type="4">
+        <text>id, classify_code, classify_name, level, parent_code, disable_flag, display_order, remark, create_user, create_time, update_user, update_time, aitype_data_show</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBTeXN0ZW0ub3V0LnByaW50bG4ocyk7Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBTdHJpbmcgcyA9IEh0dHBVdGlsLmRvUG9zdE5vUmV0dXJuMigiaHR0cDovLzM5Ljk4LjE2OS4xMDE6NDQ1MS9iaWdkYXRhLzExMC9zaW1pbGFyU2luZ2xlIiwgSHR0cFV0aWwuaGFuZGxlUGFyYW0oKSk7Cg==</text>
+        <text encoding="base64">dHJ1bmNhdGUgdGFibGUgdmFfZGV2LmJzX2NvbmZpZ19vcmlnaW5fYWl0eXBlOwo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgU3lzdGVtLm91dC5wcmludGxuKHMpOwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
-      <register name="4" type="4">
-        <text encoding="base64">IFN0cmluZyBzID0gSHR0cFV0aWwuZG9Qb3N0Tm9SZXR1cm4yKCJodHRwOi8vMzkuOTguMTY5LjEwMTo0NDUxL2JpZ2RhdGEvMTEwL3NpbWlsYXJTaW5nbGUiLCBIdHRwVXRpbC5oYW5kbGVQYXJhbSgpKTsKICAgICAgICBTeXN0ZW0ub3V0LnByaW50bG4ocyk7</text>
+      <register name="4" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgY2xpZW50LmNsb3NlKCk7Cg==</text>
+        <text encoding="base64">ICAgICAgICBTeXN0ZW0ub3V0LnByaW50bG4ocyk7Cg==</text>
       </register>
-      <register name="6" type="4">
-        <text encoding="base64">CiAgICAgICAgICAgICAgICAiXCJtZXNzYWdlaWRcIjpcIjEyM1wiLFwiY2xpZW50aWRcIjpcIjEyM1wiLCBcImVuY3J5cHRcIjpcIkZhbHNlXCIsIFwicGFyYW1fc3RyXCI6e1widGV4dFwiOlwiMTExXCIsIFwiY2FzZW5vXCI6XCIxMjNcIn0i</text>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgICAgICBTdHJpbmcgcyA9IEh0dHBVdGlsLmRvUG9zdE5vUmV0dXJuMigiaHR0cDovLzM5Ljk4LjE2OS4xMDE6NDQ1MS9iaWdkYXRhLzExMC9zaW1pbGFyU2luZ2xlIiwgSHR0cFV0aWwuaGFuZGxlUGFyYW0oKSk7Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBtYXAucHV0KCJlbmNyeXB0IiwgIjAiKTsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgU3lzdGVtLm91dC5wcmludGxuKHMpOwo=</text>
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBpZiAoImFpdHlwZSIuZXF1YWxzKHR5cGUpKQogICAgICAgICAgICBwYXJhbU1hcC5wdXQoImNsYXNzX2h0dHAiLCBUQ29uZmlnLmFpdHlwZS5nZXRDbGFzc0h0dHAoKSk7Cg==</text>
+      <register name="8" type="4">
+        <text encoding="base64">IFN0cmluZyBzID0gSHR0cFV0aWwuZG9Qb3N0Tm9SZXR1cm4yKCJodHRwOi8vMzkuOTguMTY5LjEwMTo0NDUxL2JpZ2RhdGEvMTEwL3NpbWlsYXJTaW5nbGUiLCBIdHRwVXRpbC5oYW5kbGVQYXJhbSgpKTsKICAgICAgICBTeXN0ZW0ub3V0LnByaW50bG4ocyk7</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBwYXJhbU1hcC5wdXQoImNhbGxiYWNrVXJsIiwgVENvbmZpZy5zeXMuZ2V0Q2FsbGJhY2tVcmwoKSk7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgY2xpZW50LmNsb3NlKCk7Cg==</text>
       </register>
       <register name=":" type="4">
         <text>%s/bs_aitype_favorite_case/bs_case_favorite_relation/g</text>
