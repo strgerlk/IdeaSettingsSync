@@ -188,10 +188,10 @@
       <file name="/va_dev.a_pf_user_perm_xqdw" timestamp="1591930079366">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/e28fa94b-e855-4133-91c0-76216abe406c/yqfx.sql" timestamp="1592273901189">
+      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/e28fa94b-e855-4133-91c0-76216abe406c/yqfx.sql" timestamp="1592283495828">
         <mark key="'" line="206" column="188" />
-        <mark key="[" line="13" column="0" />
-        <mark key="]" line="13" column="0" />
+        <mark key="[" line="38" column="0" />
+        <mark key="]" line="44" column="554" />
         <mark key="." line="13" column="0" />
       </file>
       <file name="/analysisplatform.bs_sys_config_configuretablerelation" timestamp="1591930079389">
@@ -199,12 +199,6 @@
       </file>
       <file name="/a.sql" timestamp="1592275671144">
         <mark key="[" line="0" column="0" />
-      </file>
-      <file name="$APPLICATION_CONFIG_DIR$/scratches/rest-api_1.http" timestamp="1591874219146">
-        <mark key="[" line="135" column="0" />
-        <mark key="]" line="135" column="0" />
-        <mark key="^" line="135" column="86" />
-        <mark key="." line="135" column="0" />
       </file>
       <file name="/foo.bar" timestamp="1591930079391">
         <mark key="[" line="0" column="0" />
@@ -220,6 +214,12 @@
       </file>
       <file name="/default" timestamp="1592275690311">
         <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/e28fa94b-e855-4133-91c0-76216abe406c/console.sql" timestamp="1592283667827">
+        <mark key="[" line="180" column="41" />
+        <mark key="]" line="182" column="0" />
+        <mark key="." line="182" column="0" />
+        <mark key="^" line="182" column="0" />
       </file>
       <file name="$APPLICATION_CONFIG_DIR$/consoles/.datagrid/cell" timestamp="1592276435708">
         <mark key="[" line="0" column="0" />
@@ -242,11 +242,11 @@
         <mark key="^" line="19" column="67" />
         <mark key="." line="19" column="66" />
       </file>
-      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/03a0a04a-f457-4d55-af20-a9316286cc80/console.sql" timestamp="1592276482077">
-        <mark key="[" line="33" column="122" />
-        <mark key="]" line="33" column="174" />
-        <mark key="^" line="33" column="174" />
-        <mark key="." line="33" column="173" />
+      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/03a0a04a-f457-4d55-af20-a9316286cc80/console.sql" timestamp="1592283344494">
+        <mark key="[" line="33" column="185" />
+        <mark key="]" line="33" column="185" />
+        <mark key="^" line="33" column="185" />
+        <mark key="." line="33" column="184" />
       </file>
     </filemarks>
     <jumps>
@@ -358,16 +358,16 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name="*" type="4">
-        <text>display_order</text>
+        <text>yqfx_mysql</text>
       </register>
       <register name="-" type="4">
-        <text>display_order</text>
+        <text>yqfx_mysql</text>
       </register>
       <register name="/" type="4">
         <text>main</text>
       </register>
       <register name="0" type="4">
-        <text>id, classify_code, classify_name, level, parent_code, disable_flag, display_order, remark, create_user, create_time, update_user, update_time, aitype_data_show</text>
+        <text encoding="base64">LS0g5pm66IO95YiG57G756CB6KGo5aSE55CGCnRydW5jYXRlIHRhYmxlIHlxZnguYnNfcGFyYW1fY2xhc3NpZnlfaDsKCmluc2VydCBpbnRvIHlxZnguYnNfcGFyYW1fY2xhc3NpZnlfaChpZCwgc3VwZXJfY29kZSwgc3VwZXJfbmFtZSwgc3VwZXJfbGV2ZWwsIGNsYXNzaWZ5X2NvZGUsIGNsYXNzaWZ5X25hbWUsIGxldmVsLCBkaXNwbGF5X29yZGVyLCBpbnNlcnRfdGltZSwgc3VwZXJfZGlzcGxheV9vcmRlcikgIHNlbGVjdCBpZCwgY2xhc3NpZnlfY29kZSwgY2xhc3NpZnlfbmFtZSwgbGV2ZWwsIGNsYXNzaWZ5X2NvZGUsIGNsYXNzaWZ5X25hbWUsIGxldmVsLCBkaXNwbGF5X29yZGVyLCBub3coKSwgZGlzcGxheV9vcmRlciBmcm9tIHlxZnhfbXlzcWwuYnNfcGFyYW1fY2xhc3NpZnk7CgoKaW5zZXJ0IGludG8geXFmeC5ic19wYXJhbV9jbGFzc2lmeV9oKGlkLCBzdXBlcl9jb2RlLCBzdXBlcl9uYW1lLCBzdXBlcl9sZXZlbCwgY2xhc3NpZnlfY29kZSwgY2xhc3NpZnlfbmFtZSwgbGV2ZWwsIGRpc3BsYXlfb3JkZXIsIGluc2VydF90aW1lLCBzdXBlcl9kaXNwbGF5X29yZGVyKSAgc2VsZWN0IHJvd051bWJlckluQWxsQmxvY2tzKCkgKyAxMDAwMDAwMDAsIHBhcmVudF9jb2RlLCBwYXJlbnRfbmFtZSwgcGFyZW50X2xldmVsLCBjbGFzc2lmeV9jb2RlLCBjbGFzc2lmeV9uYW1lLCBsZXZlbCwgZGlzcGxheV9vcmRlciwgbm93KCksIHBhcmVudF9vcmRlciBmcm9tIHlxZnhfbXlzcWwuYnNfcGFyYW1fY2xhc3NpZnkgdCBhbGwgbGVmdCBqb2luIChzZWxlY3QgY2xhc3NpZnlfY29kZSBwYXJlbnRfY29kZSwgY2xhc3NpZnlfbmFtZSBwYXJlbnRfbmFtZSwgbGV2ZWwgcGFyZW50X2xldmVsLCBkaXNwbGF5X29yZGVyIHBhcmVudF9vcmRlciBmcm9tIHlxZnhfbXlzcWwuYnNfcGFyYW1fY2xhc3NpZnkpIGEgdXNpbmcgKHBhcmVudF9jb2RlKSB3aGVyZSB0LmxldmVsID0gMjsK</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">Cg==</text>
