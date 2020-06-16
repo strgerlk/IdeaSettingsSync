@@ -173,7 +173,7 @@
         <mark key="^" line="66" column="39" />
         <mark key="." line="66" column="38" />
       </file>
-      <file name="/EasyCodeTemplateDebug.vm.ft" timestamp="1592297681867">
+      <file name="/EasyCodeTemplateDebug.vm.ft" timestamp="1592300477141">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$APPLICATION_CONFIG_DIR$/scratches/rest-api_1.http" timestamp="1592292271900">
@@ -181,12 +181,6 @@
         <mark key="]" line="141" column="47" />
         <mark key="^" line="141" column="47" />
         <mark key="." line="141" column="46" />
-      </file>
-      <file name="/lns/cworkspaces/intelligent_analysis_backend/src/main/java/com/mingyi/project/console/caserevert/vo/CaseRevertVO.java" timestamp="1592290227574">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="16" column="34" />
-        <mark key="." line="16" column="33" />
-        <mark key="^" line="16" column="34" />
       </file>
       <file name="/pf_auth_config [Mysql-101]" timestamp="1592292714464">
         <mark key="[" line="0" column="0" />
@@ -216,12 +210,6 @@
         <mark key="." line="120" column="3" />
         <mark key="^" line="120" column="4" />
       </file>
-      <file name="/lns/cworkspaces/intelligent_analysis_backend/src/main/java/com/mingyi/project/personal/casefavorite/controller/CaseFavoriteController.java" timestamp="1592289598326">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="9" column="62" />
-        <mark key="^" line="9" column="62" />
-        <mark key="." line="9" column="61" />
-      </file>
       <file name="/lns/cworkspaces/intelligent_analysis_backend/src/main/resources/config/applicationContext-mvc.xml" timestamp="1592291315050">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="1" />
@@ -240,14 +228,19 @@
         <mark key="^" line="57" column="24" />
         <mark key="." line="57" column="23" />
       </file>
+      <file name="/lns/cworkspaces/intelligent_analysis_backend/src/main/java/com/mingyi/project/console/menu/po/APfMenuPO.java" timestamp="1592301069796">
+        <mark key="'" line="58" column="4" />
+      </file>
       <file name="/foo.bar" timestamp="1592292727279">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="/lns/cworkspaces/intelligent_analysis_backend/src/main/java/com/mingyi/project/console/menu/entity/APfMenu.java" timestamp="1592297960135">
         <mark key="'" line="73" column="6" />
       </file>
-      <file name="/EasyCodeTemplate.vm.ft" timestamp="1592297970183">
+      <file name="/EasyCodeTemplate.vm.ft" timestamp="1592300545752">
         <mark key="[" line="0" column="0" />
+        <mark key="]" line="18" column="0" />
+        <mark key="." line="18" column="0" />
       </file>
       <file name="$APPLICATION_CONFIG_DIR$/consoles/.datagrid/cell" timestamp="1592290431956">
         <mark key="[" line="0" column="2" />
@@ -262,7 +255,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="53" column="37" filename="/lns/cworkspaces/intelligent_analysis_backend/src/main/java/com/mingyi/project/aitype/classifystat/mapperh/ClassifyStatMapperH.xml" />
       <jump line="59" column="5" filename="/lns/cworkspaces/intelligent_analysis_backend/src/main/java/com/mingyi/project/aitype/dealstat/controller/DealStatController.java" />
       <jump line="80" column="31" filename="/lns/cworkspaces/intelligent_analysis_backend/src/main/java/com/mingyi/project/security/stat/service/impl/SecurityStatServiceImpl.java" />
       <jump line="49" column="7" filename="/lns/cworkspaces/intelligent_analysis_backend/src/main/java/com/mingyi/project/security/stat/service/impl/SecurityStatServiceImpl.java" />
@@ -362,6 +354,7 @@
       <jump line="49" column="3" filename="/lns/cworkspaces/intelligent_analysis_backend/docs/接口文档/控制台/警情回收.md" />
       <jump line="52" column="0" filename="/lns/cworkspaces/intelligent_analysis_backend/docs/接口文档/控制台/警情回收.md" />
       <jump line="73" column="6" filename="/lns/cworkspaces/intelligent_analysis_backend/src/main/java/com/mingyi/project/console/menu/entity/APfMenu.java" />
+      <jump line="58" column="4" filename="/lns/cworkspaces/intelligent_analysis_backend/src/main/java/com/mingyi/project/console/menu/po/APfMenuPO.java" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
@@ -369,8 +362,8 @@
       <register name="&quot;" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="*" type="4">
-        <text>size</text>
+      <register name="*" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
         <text>size</text>
@@ -382,31 +375,31 @@
         <text encoding="base64">fCBlbmRUaW1lIHwg57uT5p2f5pe26Ze0IHwgTiB8IAo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">fCByZXZlcnRVc2VyIHwgIHwK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">fCBjYXNlTm9zIHwg6K2m5oOF5Y2V5Y+3KOaVsOe7hCkgfAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">5pON5L2c5oiQ5YqfCg==</text>
+        <text encoding="base64">ICAgICNpZigke2NvbHVtbi5jb21tZW50fSkvKioKICAgICogJHtjb2x1bW4uY29tbWVudH0KICAgICovI2VuZA==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">bWVzc2FnZWlkOiIxMjMiLGNsaWVudGlkOiIxMjMiLCBlbmNyeXB0OiJGYWxzZSIsIHBhcmFtX3N0cjp7dGV4dDoi5ZiJ5p2+5YyX6LevIiwgY2FzZW5vOiIxMjMifQo=</text>
+        <text encoding="base64">fCByZXZlcnRVc2VyIHwgIHwK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">fCBjYXNlTm9zIHwg6K2m5oOF5Y2V5Y+3KOaVsOe7hCkgfAo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">5pON5L2c5oiQ5YqfCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">aW5zZXJ0IGludG8gdmFfZGV2LmJzX3BhcmFtX2NsYXNzaWZ5KGlkLCBjbGFzc2lmeV9jb2RlLCBjbGFzc2lmeV9uYW1lLCBsZXZlbCwgcGFyZW50X2NvZGUsIGRpc2FibGVfZmxhZywgZGlzcGxheV9vcmRlciwgcmVtYXJrLCBjcmVhdGVfdXNlciwgY3JlYXRlX3RpbWUsIHVwZGF0ZV91c2VyLCB1cGRhdGVfdGltZSwgYWl0eXBlX2RhdGFfc2hvdywgYWl0eXBlX2Rpc3BsYXksIGFpdHlwZV9ncmV5KSBzZWxlY3QgdXVpZF9zaG9ydCgpLCAnMTAxJywgJ+WFqOmDqOS4k+mimCcsIDIsICcxMDEnLCAgMCBkaXNhYmxlX2ZsYWcsICAxMDEsICcnIHJlbWFyaywgJycgY3JlYXRlX3VzZXIsIG5vdygpIGNyZWF0ZV90aW1lLCAnJyB1cGRhdGVfdXNlciwgbm93KCkgdXBkYXRlX3RpbWUsIDEgYWl0eXBlX2RhdGFfc2hvdywgMCAsIDAgOyAgZnJvbSB2YV9kZXYuYnNfY29uZmlnX29yaWdpbl9haXR5cGU7Cg==</text>
+        <text encoding="base64">bWVzc2FnZWlkOiIxMjMiLGNsaWVudGlkOiIxMjMiLCBlbmNyeXB0OiJGYWxzZSIsIHBhcmFtX3N0cjp7dGV4dDoi5ZiJ5p2+5YyX6LevIiwgY2FzZW5vOiIxMjMifQo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">fCByZXZlcnRTb3VyY2UgfCDlm57mlLbmnaXmupAoMS3mmbrog73liIbnsbvvvIwyLeWkmue7tOeglOWIpO+8jDMt5rK75a6J5Lmx54K5KSB8IFkgfCAK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">fCByZW1hcmsgfCDlpIfms6ggfCBOIHwgCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>%s/bs_aitype_favorite_case/bs_case_favorite_relation/g</text>
