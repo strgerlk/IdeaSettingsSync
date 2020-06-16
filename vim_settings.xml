@@ -180,7 +180,7 @@
         <mark key="^" line="66" column="39" />
         <mark key="." line="66" column="38" />
       </file>
-      <file name="/EasyCodeTemplateDebug.vm.ft" timestamp="1592294087426">
+      <file name="/EasyCodeTemplateDebug.vm.ft" timestamp="1592295011148">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$APPLICATION_CONFIG_DIR$/scratches/rest-api_1.http" timestamp="1592292271900">
@@ -256,9 +256,7 @@
       <file name="/foo.bar" timestamp="1592292727279">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="/EasyCodeTemplate.vm.ft" timestamp="1592294141869">
-        <mark key="[" line="0" column="0" />
-      </file>
+      <file name="/EasyCodeTemplate.vm.ft" timestamp="1592295029523" />
       <file name="$APPLICATION_CONFIG_DIR$/consoles/.datagrid/cell" timestamp="1592290431956">
         <mark key="[" line="0" column="2" />
         <mark key="]" line="0" column="1" />
