@@ -236,12 +236,12 @@
       <file name="/Dummy.txt" timestamp="1592382538646">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="/lns/cworkspaces/intelligent_analysis_backend/src/main/java/com/mingyi/project/console/menu/mapper/MenuMapper.xml" timestamp="1592388074776">
+      <file name="/lns/cworkspaces/intelligent_analysis_backend/src/main/java/com/mingyi/project/console/menu/mapper/MenuMapper.xml" timestamp="1592389717830">
         <mark key="'" line="23" column="0" />
-        <mark key="[" line="36" column="49" />
-        <mark key="]" line="23" column="16" />
-        <mark key="." line="23" column="0" />
-        <mark key="^" line="23" column="16" />
+        <mark key="[" line="43" column="16" />
+        <mark key="]" line="43" column="16" />
+        <mark key="." line="43" column="15" />
+        <mark key="^" line="43" column="16" />
       </file>
       <file name="/lns/cworkspaces/intelligent_analysis_backend/src/main/java/com/mingyi/project/console/caserevert/service/impl/CaseRevertServiceImpl.java" timestamp="1592385387079">
         <mark key="[" line="51" column="53" />
@@ -383,7 +383,7 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name="*" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="-" type="4">
         <text>roleId</text>
@@ -395,12 +395,15 @@
         <text encoding="base64">ICAgIDwhLS0g5p+l6K+i5qCR57uT5p6E5aSE55CG5omA6ZyA5qC85byPIC0tPgogICAgPHNlbGVjdCBpZD0icXVlcnlGb3JUcmVlIiByZXN1bHRUeXBlPSJtYXAiPgogICAgICAgIHNlbGVjdCBtZW51X2lkIGNvZGUsIG1lbnVfbmFtZSBuYW1lLCBwYXJlbnRfaWQgcGFyZW50X2NvZGUgZnJvbSBhX3BmX21lbnUgb3JkZXIgYnkgZGlzcGxheV9vcmRlcgogICAgPC9zZWxlY3Q+Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="2" type="2">
+        <text encoding="base64">ICAgICAgICAK</text>
+      </register>
+      <register name="3" type="2">
         <text encoding="base64">I3tjcmVhdGVUaW1lCg==</text>
       </register>
-      <register name="3" type="8">
+      <register name="4" type="8">
         <text>&quot;
 &quot;
 &quot;
@@ -416,23 +419,20 @@
 &quot;
 &quot;</text>
       </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgIAo=</text>
-      </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICByZXR1cm4gbnVsbDsK</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgICByZXR1cm4gbnVsbDsK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">aW1wb3J0IGphdmEuYXd0Lio7Cg==</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIHByaXZhdGUgU3RyaW5nIG9wZW5XYXk7ICAgICAgICAgICAgICAgICAgICAgICAgICAgIC8vIOaJk+W8gOaWueW8jygxLuWPs+S+p+aJk+W8gCwyLuW8ueWHuuaJk+W8gCkK</text>
+        <text encoding="base64">aW1wb3J0IGphdmEuYXd0Lio7Cg==</text>
       </register>
       <register name=":" type="4">
         <text>%s/,&quot;/,/g</text>
