@@ -41,12 +41,12 @@
         <entry>silent ! google-chrome-stable &quot;%:p&quot;</entry>
         <entry>%s/ yqfx/ va_dev/g</entry>
         <entry>%s/2020-01-01/2020-01-02/g</entry>
-        <entry>nohl</entry>
         <entry>%s/bs_aitype_favorite/bs_case_favorite_folder/g</entry>
         <entry>%s/bs_aitype_favorite_case/bs_case_favorite_relation/g</entry>
-        <entry>reg</entry>
         <entry>%s/,#//g</entry>
         <entry>%s/,&quot;/,/g</entry>
+        <entry>reg</entry>
+        <entry>nohl</entry>
       </history-cmd>
       <history-expr />
       <history-input />
@@ -196,12 +196,7 @@
         <mark key="." line="11" column="28" />
         <mark key="^" line="11" column="29" />
       </file>
-      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/03a0a04a-f457-4d55-af20-a9316286cc80/console.sql" timestamp="1592386244139">
-        <mark key="[" line="30" column="7" />
-        <mark key="]" line="29" column="1" />
-        <mark key="." line="29" column="0" />
-        <mark key="^" line="29" column="1" />
-      </file>
+      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/03a0a04a-f457-4d55-af20-a9316286cc80/console.sql" timestamp="1592394356018" />
       <file name="/lns/cworkspaces/intelligent_analysis_backend/src/main/java/com/mingyi/project/console/menu/mapper/MenuMapper.java" timestamp="1592387809506">
         <mark key="[" line="15" column="0" />
         <mark key="]" line="17" column="16" />
@@ -236,12 +231,12 @@
       <file name="/Dummy.txt" timestamp="1592382538646">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="/lns/cworkspaces/intelligent_analysis_backend/src/main/java/com/mingyi/project/console/menu/mapper/MenuMapper.xml" timestamp="1592393677641">
+      <file name="/lns/cworkspaces/intelligent_analysis_backend/src/main/java/com/mingyi/project/console/menu/mapper/MenuMapper.xml" timestamp="1592395074792">
         <mark key="'" line="23" column="0" />
-        <mark key="[" line="44" column="16" />
-        <mark key="]" line="44" column="16" />
-        <mark key="." line="44" column="15" />
-        <mark key="^" line="44" column="16" />
+        <mark key="[" line="57" column="19" />
+        <mark key="]" line="58" column="28" />
+        <mark key="." line="58" column="27" />
+        <mark key="^" line="58" column="28" />
       </file>
       <file name="/lns/cworkspaces/intelligent_analysis_backend/src/main/java/com/mingyi/project/console/caserevert/service/impl/CaseRevertServiceImpl.java" timestamp="1592385387079">
         <mark key="[" line="51" column="53" />
@@ -382,11 +377,11 @@
       <register name="&quot;" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="*" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+      <register name="*" type="4">
+        <text>length</text>
       </register>
       <register name="-" type="4">
-        <text>roleId</text>
+        <text>length</text>
       </register>
       <register name="/" type="4">
         <text>,&quot;</text>
@@ -395,15 +390,21 @@
         <text encoding="base64">ICAgIDwhLS0g5p+l6K+i5qCR57uT5p6E5aSE55CG5omA6ZyA5qC85byPIC0tPgogICAgPHNlbGVjdCBpZD0icXVlcnlGb3JUcmVlIiByZXN1bHRUeXBlPSJtYXAiPgogICAgICAgIHNlbGVjdCBtZW51X2lkIGNvZGUsIG1lbnVfbmFtZSBuYW1lLCBwYXJlbnRfaWQgcGFyZW50X2NvZGUgZnJvbSBhX3BmX21lbnUgb3JkZXIgYnkgZGlzcGxheV9vcmRlcgogICAgPC9zZWxlY3Q+Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgPG90aGVyd2lzZT48L290aGVyd2lzZT4K</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgICA8Cg==</text>
       </register>
       <register name="3" type="2">
+        <text encoding="base64">ICAgIAo=</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgICAgICAK</text>
+      </register>
+      <register name="5" type="2">
         <text encoding="base64">I3tjcmVhdGVUaW1lCg==</text>
       </register>
-      <register name="4" type="8">
+      <register name="6" type="8">
         <text>&quot;
 &quot;
 &quot;
@@ -419,23 +420,17 @@
 &quot;
 &quot;</text>
       </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgIAo=</text>
-      </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICByZXR1cm4gbnVsbDsK</text>
-      </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAgICAgICByZXR1cm4gbnVsbDsK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">aW1wb3J0IGphdmEuYXd0Lio7Cg==</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name=":" type="4">
-        <text>%s/,&quot;/,/g</text>
+        <text>nohl</text>
       </register>
     </registers>
   </component>
@@ -447,7 +442,7 @@
       <last-replace>,</last-replace>
       <last-substitute>,&quot;</last-substitute>
       <last-dir>1</last-dir>
-      <show-last>true</show-last>
+      <show-last>false</show-last>
     </search>
   </component>
   <component name="VimSettings">
