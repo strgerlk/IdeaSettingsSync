@@ -167,19 +167,19 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
-      <file name="/lns/cworkspaces/intelligent_analysis_backend/src/main/java/com/mingyi/webapp/utils/tree/TreeHandler.java" timestamp="1592461921727">
-        <mark key="'" line="252" column="20" />
+      <file name="/lns/cworkspaces/intelligent_analysis_backend/src/main/java/com/mingyi/webapp/utils/tree/TreeHandler.java" timestamp="1592465309482">
+        <mark key="'" line="253" column="20" />
         <mark key="[" line="0" column="0" />
-        <mark key="]" line="259" column="23" />
-        <mark key="^" line="259" column="23" />
-        <mark key="." line="259" column="22" />
+        <mark key="]" line="133" column="55" />
+        <mark key="^" line="133" column="55" />
+        <mark key="." line="133" column="54" />
       </file>
-      <file name="$APPLICATION_CONFIG_DIR$/scratches/rest-api_1.http" timestamp="1592455363946">
+      <file name="$APPLICATION_CONFIG_DIR$/scratches/rest-api_1.http" timestamp="1592464956652">
         <mark key="'" line="34" column="52" />
-        <mark key="[" line="184" column="50" />
-        <mark key="]" line="184" column="50" />
-        <mark key="^" line="184" column="50" />
-        <mark key="." line="184" column="49" />
+        <mark key="[" line="183" column="0" />
+        <mark key="]" line="183" column="0" />
+        <mark key="." line="183" column="0" />
+        <mark key="^" line="182" column="26" />
       </file>
       <file name="/lns/cworkspaces/intelligent_analysis_backend/src/main/java/com/mingyi/project/console/menu/vo/MenuVO.java" timestamp="1592459154870">
         <mark key="[" line="0" column="0" />
@@ -187,26 +187,26 @@
         <mark key="." line="5" column="0" />
         <mark key="^" line="5" column="1" />
       </file>
-      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/03a0a04a-f457-4d55-af20-a9316286cc80/console.sql" timestamp="1592461363321">
+      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/03a0a04a-f457-4d55-af20-a9316286cc80/console.sql" timestamp="1592464505986">
         <mark key="'" line="35" column="78" />
-        <mark key="[" line="48" column="56" />
-        <mark key="]" line="48" column="69" />
-        <mark key="^" line="48" column="69" />
-        <mark key="." line="48" column="68" />
+        <mark key="[" line="56" column="114" />
+        <mark key="]" line="54" column="73" />
+        <mark key="^" line="54" column="73" />
+        <mark key="." line="54" column="72" />
       </file>
-      <file name="/lns/cworkspaces/intelligent_analysis_backend/src/main/java/com/mingyi/project/console/menu/mapper/MenuMapper.java" timestamp="1592460915358">
+      <file name="/lns/cworkspaces/intelligent_analysis_backend/src/main/java/com/mingyi/project/console/menu/mapper/MenuMapper.java" timestamp="1592464352582">
         <mark key="'" line="35" column="6" />
         <mark key="[" line="0" column="0" />
-        <mark key="]" line="36" column="33" />
-        <mark key="." line="36" column="32" />
-        <mark key="^" line="36" column="33" />
+        <mark key="]" line="22" column="22" />
+        <mark key="." line="22" column="21" />
+        <mark key="^" line="22" column="22" />
       </file>
-      <file name="/lns/cworkspaces/intelligent_analysis_backend/src/main/java/com/mingyi/project/console/menu/po/MenuPO.java" timestamp="1592444372279">
+      <file name="/lns/cworkspaces/intelligent_analysis_backend/src/main/java/com/mingyi/project/console/menu/po/MenuPO.java" timestamp="1592464586103">
         <mark key="'" line="95" column="29" />
         <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="1" />
-        <mark key="." line="0" column="0" />
-        <mark key="^" line="0" column="1" />
+        <mark key="]" line="47" column="31" />
+        <mark key="^" line="47" column="31" />
+        <mark key="." line="47" column="30" />
       </file>
       <file name="/opt/jdk1.8.0_231/src.zip!/java/util/stream/Stream.java" timestamp="1592461708410">
         <mark key="[" line="0" column="0" />
@@ -226,22 +226,22 @@
       <file name="/dummy.sql" timestamp="1592444291331">
         <mark key="[" line="0" column="7" />
       </file>
-      <file name="/lns/cworkspaces/intelligent_analysis_backend/src/main/java/com/mingyi/project/console/menu/service/impl/MenuServiceImpl.java" timestamp="1592462205828">
+      <file name="/lns/cworkspaces/intelligent_analysis_backend/src/main/java/com/mingyi/project/console/menu/service/impl/MenuServiceImpl.java" timestamp="1592464432279">
         <mark key="'" line="83" column="28" />
-        <mark key="[" line="81" column="11" />
-        <mark key="]" line="83" column="29" />
-        <mark key="." line="83" column="28" />
-        <mark key="^" line="83" column="29" />
+        <mark key="[" line="43" column="92" />
+        <mark key="]" line="43" column="94" />
+        <mark key="." line="43" column="93" />
+        <mark key="^" line="43" column="94" />
       </file>
       <file name="/Dummy.txt" timestamp="1592444285224">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="/lns/cworkspaces/intelligent_analysis_backend/src/main/java/com/mingyi/project/console/menu/mapper/MenuMapper.xml" timestamp="1592460911639">
+      <file name="/lns/cworkspaces/intelligent_analysis_backend/src/main/java/com/mingyi/project/console/menu/mapper/MenuMapper.xml" timestamp="1592465405569">
         <mark key="'" line="17" column="23" />
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="84" column="69" />
-        <mark key="." line="84" column="68" />
-        <mark key="^" line="84" column="69" />
+        <mark key="[" line="87" column="16" />
+        <mark key="]" line="87" column="16" />
+        <mark key="." line="87" column="16" />
+        <mark key="^" line="11" column="82" />
       </file>
       <file name="/lns/cworkspaces/intelligent_analysis_backend/src/main/java/com/mingyi/project/console/caserevert/service/impl/CaseRevertServiceImpl.java" timestamp="1592385387079">
         <mark key="[" line="51" column="53" />
@@ -249,11 +249,12 @@
         <mark key="^" line="51" column="63" />
         <mark key="." line="51" column="62" />
       </file>
-      <file name="/lns/cworkspaces/intelligent_analysis_backend/src/main/java/com/mingyi/project/console/menu/controller/MenuController.java" timestamp="1592462725421">
-        <mark key="[" line="46" column="20" />
-        <mark key="]" line="47" column="27" />
-        <mark key="^" line="47" column="27" />
-        <mark key="." line="47" column="26" />
+      <file name="/lns/cworkspaces/intelligent_analysis_backend/src/main/java/com/mingyi/project/console/menu/controller/MenuController.java" timestamp="1592464721033">
+        <mark key="'" line="54" column="70" />
+        <mark key="[" line="25" column="50" />
+        <mark key="]" line="25" column="49" />
+        <mark key="." line="25" column="48" />
+        <mark key="^" line="25" column="49" />
       </file>
       <file name="/lns/cworkspaces/intelligent_analysis_backend/src/main/java/com/mingyi/webapp/core/callback/CallbackHandler.java" timestamp="1592462531589">
         <mark key="[" line="0" column="0" />
@@ -267,11 +268,11 @@
         <mark key="^" line="300" column="31" />
         <mark key="." line="300" column="30" />
       </file>
-      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/e28fa94b-e855-4133-91c0-76216abe406c/console.sql" timestamp="1592455882142">
-        <mark key="[" line="223" column="61" />
-        <mark key="]" line="223" column="71" />
-        <mark key="." line="223" column="70" />
-        <mark key="^" line="223" column="71" />
+      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/e28fa94b-e855-4133-91c0-76216abe406c/console.sql" timestamp="1592465792036">
+        <mark key="[" line="229" column="60" />
+        <mark key="]" line="229" column="88" />
+        <mark key="." line="229" column="88" />
+        <mark key="^" line="229" column="88" />
       </file>
       <file name="/lns/cworkspaces/intelligent_analysis_backend/src/main/java/com/mingyi/project/console/menu/service/MenuService.java" timestamp="1592462566903">
         <mark key="[" line="0" column="0" />
@@ -279,9 +280,11 @@
         <mark key="." line="24" column="8" />
         <mark key="^" line="24" column="9" />
       </file>
+      <file name="/fragment.java" timestamp="1592464278177">
+        <mark key="[" line="0" column="0" />
+      </file>
     </filemarks>
     <jumps>
-      <jump line="114" column="28" filename="/lns/cworkspaces/intelligent_analysis_backend/src/main/java/com/mingyi/project/security/info/service/SecurityInfoService.java" />
       <jump line="100" column="0" filename="$APPLICATION_CONFIG_DIR$/scratches/rest-api_1.http" />
       <jump line="93" column="62" filename="$APPLICATION_CONFIG_DIR$/scratches/rest-api_1.http" />
       <jump line="19" column="0" filename="/lns/cworkspaces/intelligent_analysis_backend/src/main/java/com/mingyi/webapp/interceptor/ChkLoginIntercepter.java" />
@@ -381,6 +384,7 @@
       <jump line="17" column="13" filename="/lns/cworkspaces/intelligent_analysis_backend/src/main/java/com/mingyi/webapp/utils/tree/TreeHandler.java" />
       <jump line="252" column="20" filename="/lns/cworkspaces/intelligent_analysis_backend/src/main/java/com/mingyi/webapp/utils/tree/TreeHandler.java" />
       <jump line="83" column="28" filename="/lns/cworkspaces/intelligent_analysis_backend/src/main/java/com/mingyi/project/console/menu/service/impl/MenuServiceImpl.java" />
+      <jump line="51" column="70" filename="/lns/cworkspaces/intelligent_analysis_backend/src/main/java/com/mingyi/project/console/menu/controller/MenuController.java" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
@@ -389,43 +393,43 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name="*" type="4">
-        <text>int</text>
+        <text>[</text>
       </register>
       <register name="-" type="4">
-        <text>int</text>
+        <text>[</text>
       </register>
       <register name="/" type="4">
         <text>Seq</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIC8qKgogICAgICog5p+l6K+i6I+c5Y2V5qCRCiAgICAgKiBAcmV0dXJuIOiPnOWNleagkWxpc3QKICAgICAqLwogICAgTGlzdDxUcmVlTm9kZT4gcXVlcnlNZW51VHJlZSgpOwoKCiAgICAvKioKICAgICAqIOaPkuWFpQogICAgICogQHBhcmFtIHZvIOWPguaVsAogICAgICogQHJldHVybiDmj5LlhaXmlbDph48KICAgICAqLwogICAgaW50IGluc2VydChNZW51Vk8gdm8pOwoKICAgIC8qKgogICAgICog5qC55o2u5Li76ZSu5Yig6ZmkCiAgICAgKiBAcGFyYW0gdm8g5Y+C5pWwCiAgICAgKiBAcmV0dXJuIOWIoOmZpOaVsOmHjwogICAgICovCiAgICBpbnQgZGVsZXRlQnlJZChNZW51Vk8gdm8pOwoKICAgIC8qKgogICAgICog5pu05pawCiAgICAgKiBAcGFyYW0gdm8g5Y+C5pWwCiAgICAgKiBAcmV0dXJuIOabtOaWsOaVsOmHjwogICAgICovCiAgICBpbnQgdXBkYXRlKE1lbnVWTyB2byk7CgogICAgLyoqCiAgICAgKiDmjpLluo8KICAgICAqIEBwYXJhbSB2b0xpc3Qg5Y+C5pWwbGlzdAogICAgICogQHJldHVybiDmjpLluo/mlbDph48KICAgICAqLwogICAgaW50IHNvcnQoTGlzdDxNZW51Vk8+IHZvTGlzdCk7Cg==</text>
+        <text encoding="base64">c2VsZWN0ICogZnJvbSB2YV9kZXZfbXlzcWwuYnNfcGFyYW1fY2xhc3NpZnkgd2hlcmUgY2xhc3NpZnlfbmFtZSBsaWtlICcl5pyq5oiQ5bm0JSc7Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAqIEByZXR1cm4g5pu05paw5pWw6YePCg==</text>
+        <text encoding="base64">ICAgICAgICAuYWNjZXB0KHRoaXMudHJlZSk7Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAqIEBwYXJhbSB2byDlj4LmlbAK</text>
+        <text encoding="base64">bWVudUlkPSZtZW51TmFtZT1MS+a1i+ivleS4gOe6p+iPnOWNlSZwYXJlbnRJZD0wJnN0YXR1cz0wCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAqIEByZXR1cm4g5Yig6Zmk5pWw6YePCg==</text>
+        <text encoding="base64">bWVudUlkPTY2NzkyODAyMDc0NTY3NjgwMDAmbWVudU5hbWU9TEvmtYvor5XkuIDnuqfoj5zljZUmcGFyZW50SWQ9MCZzdGF0dXM9MAo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAqIEBwYXJhbSB2byDlj4LmlbAK</text>
+        <text encoding="base64">PD4gMjAyMC0wNi0xOFQwMzE5MjkuMjAwLmh0bWwKPD4gMjAyMC0wNi0xOFQwMzE5MTguMjAwLmh0bWwKPD4gMjAyMC0wNi0xOFQwMzE3MzAuMjAwLmh0bWwKPD4gMjAyMC0wNi0xOFQwMzE0NTYuMjAwLmh0bWwKPD4gMjAyMC0wNi0xOFQwMzEyMDMuMjAwLmh0bWwKPD4gMjAyMC0wNi0xOFQwMzExMDQuMjAwLmh0bWwKPD4gMjAyMC0wNi0xOFQwMzAwMzAuMjAwLmh0bWwKPD4gMjAyMC0wNi0xOFQwMjU5MDMuMjAwLmh0bWwK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAqIEByZXR1cm4g5o+S5YWl5pWw6YePCg==</text>
+        <text encoding="base64">ICAgIHB1YmxpYyBTdHJpbmcgZ2V0UGFyZW50SWQoKSB7CiAgICAgICAgcmV0dXJuIHBhcmVudElkOwogICAgfQoKICAgIHB1YmxpYyB2b2lkIHNldFBhcmVudElkKFN0cmluZyBwYXJlbnRJZCkgewogICAgICAgIHRoaXMucGFyZW50SWQgPSBwYXJlbnRJZDsKICAgIH0K</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAqIEBwYXJhbSB2byDlj4LmlbAK</text>
+        <text encoding="base64">PD4gMjAyMC0wNi0xN1QwNDEzMDMuMjAwLmh0bWwKPD4gMjAyMC0wNi0xN1QwNDEzMDIuMjAwLmh0bWwKPD4gMjAyMC0wNi0xN1QwNDEzMDAuMjAwLmh0bWwKPD4gMjAyMC0wNi0xN1QwNDEyNTkuMjAwLmh0bWwKPD4gMjAyMC0wNi0xN1QwNDEyNTguMjAwLmh0bWwKPD4gMjAyMC0wNi0xN1QwNDEyNTYuMjAwLmh0bWwKPD4gMjAyMC0wNi0xN1QwNDEyNTUuMjAwLmh0bWwKPD4gMjAyMC0wNi0xN1QwNDEyNTMuMjAwLmh0bWwKPD4gMjAyMC0wNi0xN1QwNDEyNTIuMjAwLmh0bWwKPD4gMjAyMC0wNi0xN1QwNDEyNTEuMjAwLmh0bWwKPD4gMjAyMC0wNi0xN1QwNDEyNDkuMjAwLmh0bWwKPD4gMjAyMC0wNi0xN1QwNDEyNDguMjAwLmh0bWwKPD4gMjAyMC0wNi0xN1QwNDEyNDYuMjAwLmh0bWwKPD4gMjAyMC0wNi0xN1QwNDEyMzYuMjAwLmh0bWwKPD4gMjAyMC0wNi0xN1QwNDAyMDAuMjAwLmh0bWwKPD4gMjAyMC0wNi0xN1QwNDAxNTMuMjAwLmh0bWwKPD4gMjAyMC0wNi0xN1QwMzUzNDkuMjAwLmh0bWwKPD4gMjAyMC0wNi0xN1QwMzUwMTguNTAwLmh0bWwK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIHByaXZhdGUgc3RhdGljIGZpbmFsIExvZyBsb2dnZXIgCg==</text>
+        <text encoding="base64">PD4gMjAyMC0wNi0xN1QwMzM5MjQuNDA0Lmh0bWwKPD4gMjAyMC0wNi0xN1QwMzM4MzkuNDA0Lmh0bWwKPD4gMjAyMC0wNi0xN1QwMzM3MzYuMjAwLnR4dAo8PiAyMDIwLTA2LTE3VDAzMzcxMy4yMDAudHh0Cjw+IDIwMjAtMDYtMTdUMDMzMzQzLjIwMC50eHQKPD4gMjAyMC0wNi0xN1QwMzMxMjEuMjAwLnR4dAo8PiAyMDIwLTA2LTE3VDAzMzEwMi4yMDAudHh0Cjw+IDIwMjAtMDYtMTdUMDI1OTA0LjIwMC5odG1sCjw+IDIwMjAtMDYtMTdUMDI1ODI1LjQwNC5odG1sCjw+IDIwMjAtMDYtMTdUMDIxNDU5LjQwNC5odG1sCjw+IDIwMjAtMDYtMTdUMDIxMzAxLjQwNC5odG1sCjw+IDIwMjAtMDYtMTdUMDIxMjQ0LjIwMC5odG1sCjw+IDIwMjAtMDYtMTdUMDIxMTEwLjQwNC5odG1sCjw+IDIwMjAtMDYtMTdUMDIwODQ2LjQwNC5odG1sCgo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">PD4gMjAyMC0wNi0xOFQwMTQwMTcuMjAwLmh0bWwKPD4gMjAyMC0wNi0xOFQwMTM5NTIuMjAwLmh0bWwKPD4gMjAyMC0wNi0xOFQwMTM5NDIuMjAwLmh0bWwKPD4gMjAyMC0wNi0xN1QwMjIxNTMuMjAwLmh0bWwKPD4gMjAyMC0wNi0xN1QwMjE3NTEuNDA0Lmh0bWwKPD4gMjAyMC0wNi0xN1QwMjE3MjIuNDA0Lmh0bWwKPD4gMjAyMC0wNi0xN1QwMjE2MDYuMjAwLmh0bWwKCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIEBjaAo=</text>
       </register>
       <register name=":" type="4">
         <text>reg</text>
