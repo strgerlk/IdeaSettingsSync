@@ -5,8 +5,6 @@
   <component name="VimHistorySettings">
     <history>
       <history-search>
-        <entry>LIMIT 3</entry>
-        <entry>disable</entry>
         <entry>classify</entry>
         <entry>filter</entry>
         <entry>bs_aitype_favorite</entry>
@@ -25,6 +23,8 @@
         <entry encoding="base64">XDxncm91cEFycmF5XD4=</entry>
         <entry encoding="base64">bGVuZ3RoIA==</entry>
         <entry encoding="base64">XDxhcnJheUh0dHBNZXNzYWdlQ29udmVydGVyXD4=</entry>
+        <entry>fast</entry>
+        <entry>jackson</entry>
       </history-search>
       <history-cmd>
         <entry>%s/sh_yqfx_mysql/mysql2/g</entry>
@@ -167,26 +167,26 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
-      <file name="/lns/cworkspaces/intelligent_analysis_backend/src/main/java/com/mingyi/webapp/utils/tree/TreeHandler.java" timestamp="1592465309482">
+      <file name="/lns/cworkspaces/intelligent_analysis_backend/src/main/java/com/mingyi/webapp/utils/tree/TreeHandler.java" timestamp="1592474467009">
         <mark key="'" line="253" column="20" />
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="133" column="55" />
-        <mark key="^" line="133" column="55" />
-        <mark key="." line="133" column="54" />
+        <mark key="[" line="261" column="67" />
+        <mark key="]" line="261" column="76" />
+        <mark key="^" line="261" column="76" />
+        <mark key="." line="261" column="75" />
       </file>
-      <file name="/lns/cworkspaces/intelligent_analysis_backend/src/main/java/com/mingyi/project/aitype/caseinfo/housemapper/CaseInfoHouseMapper.xml" timestamp="1592466591801">
-        <mark key="'" line="6" column="35" />
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="40" column="45" />
-        <mark key="." line="40" column="44" />
-        <mark key="^" line="40" column="45" />
-      </file>
-      <file name="$APPLICATION_CONFIG_DIR$/scratches/rest-api_1.http" timestamp="1592471552322">
+      <file name="$APPLICATION_CONFIG_DIR$/scratches/rest-api_1.http" timestamp="1592474326632">
         <mark key="'" line="34" column="52" />
-        <mark key="[" line="207" column="11" />
-        <mark key="]" line="207" column="11" />
-        <mark key="." line="207" column="10" />
-        <mark key="^" line="207" column="11" />
+        <mark key="[" line="207" column="41" />
+        <mark key="]" line="207" column="56" />
+        <mark key="." line="207" column="55" />
+        <mark key="^" line="207" column="56" />
+      </file>
+      <file name="/lns/cworkspaces/intelligent_analysis_backend/pom.xml" timestamp="1592474170938">
+        <mark key="'" line="481" column="29" />
+        <mark key="[" line="21" column="26" />
+        <mark key="]" line="21" column="26" />
+        <mark key="." line="21" column="25" />
+        <mark key="^" line="21" column="26" />
       </file>
       <file name="/lns/cworkspaces/intelligent_analysis_backend/src/main/java/com/mingyi/project/console/menu/vo/MenuVO.java" timestamp="1592470061178">
         <mark key="[" line="0" column="0" />
@@ -301,26 +301,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="124" column="13" filename="$APPLICATION_CONFIG_DIR$/consoles/db/a4da4a96-f0ac-4b74-8cc6-9017695f0b75/console.sql" />
-      <jump line="4" column="21" filename="/lns/cworkspaces/intelligent_analysis_backend/pom.xml" />
-      <jump line="22" column="0" filename="/lns/cworkspaces/intelligent_analysis_backend/pom.xml" />
-      <jump line="23" column="4" filename="/lns/cworkspaces/intelligent_analysis_backend/pom.xml" />
-      <jump line="47" column="0" filename="/lns/cworkspaces/intelligent_analysis_backend/pom.xml" />
-      <jump line="48" column="4" filename="/lns/cworkspaces/intelligent_analysis_backend/pom.xml" />
-      <jump line="60" column="0" filename="/lns/cworkspaces/intelligent_analysis_backend/pom.xml" />
-      <jump line="61" column="4" filename="/lns/cworkspaces/intelligent_analysis_backend/pom.xml" />
-      <jump line="66" column="0" filename="/lns/cworkspaces/intelligent_analysis_backend/pom.xml" />
-      <jump line="67" column="4" filename="/lns/cworkspaces/intelligent_analysis_backend/pom.xml" />
-      <jump line="72" column="0" filename="/lns/cworkspaces/intelligent_analysis_backend/pom.xml" />
-      <jump line="73" column="4" filename="/lns/cworkspaces/intelligent_analysis_backend/pom.xml" />
-      <jump line="78" column="0" filename="/lns/cworkspaces/intelligent_analysis_backend/pom.xml" />
-      <jump line="79" column="4" filename="/lns/cworkspaces/intelligent_analysis_backend/pom.xml" />
-      <jump line="84" column="0" filename="/lns/cworkspaces/intelligent_analysis_backend/pom.xml" />
-      <jump line="85" column="4" filename="/lns/cworkspaces/intelligent_analysis_backend/pom.xml" />
-      <jump line="90" column="0" filename="/lns/cworkspaces/intelligent_analysis_backend/pom.xml" />
-      <jump line="91" column="4" filename="/lns/cworkspaces/intelligent_analysis_backend/pom.xml" />
-      <jump line="96" column="0" filename="/lns/cworkspaces/intelligent_analysis_backend/pom.xml" />
-      <jump line="97" column="4" filename="/lns/cworkspaces/intelligent_analysis_backend/pom.xml" />
       <jump line="102" column="0" filename="/lns/cworkspaces/intelligent_analysis_backend/pom.xml" />
       <jump line="103" column="4" filename="/lns/cworkspaces/intelligent_analysis_backend/pom.xml" />
       <jump line="108" column="0" filename="/lns/cworkspaces/intelligent_analysis_backend/pom.xml" />
@@ -401,6 +381,26 @@
       <jump line="47" column="30" filename="/lns/cworkspaces/intelligent_analysis_backend/src/main/java/com/mingyi/project/console/menu/po/MenuPO.java" />
       <jump line="43" column="21" filename="/lns/cworkspaces/intelligent_analysis_backend/src/main/java/com/mingyi/project/console/menu/mapper/MenuMapper.xml" />
       <jump line="62" column="23" filename="/lns/cworkspaces/intelligent_analysis_backend/src/main/resources/config/applicationContext-mvc.xml" />
+      <jump line="0" column="0" filename="/lns/cworkspaces/intelligent_analysis_backend/pom.xml" />
+      <jump line="14" column="29" filename="/lns/cworkspaces/intelligent_analysis_backend/pom.xml" />
+      <jump line="145" column="18" filename="/lns/cworkspaces/intelligent_analysis_backend/pom.xml" />
+      <jump line="146" column="17" filename="/lns/cworkspaces/intelligent_analysis_backend/pom.xml" />
+      <jump line="482" column="18" filename="/lns/cworkspaces/intelligent_analysis_backend/pom.xml" />
+      <jump line="483" column="17" filename="/lns/cworkspaces/intelligent_analysis_backend/pom.xml" />
+      <jump line="21" column="28" filename="/lns/cworkspaces/intelligent_analysis_backend/pom.xml" />
+      <jump line="461" column="29" filename="/lns/cworkspaces/intelligent_analysis_backend/pom.xml" />
+      <jump line="462" column="18" filename="/lns/cworkspaces/intelligent_analysis_backend/pom.xml" />
+      <jump line="463" column="17" filename="/lns/cworkspaces/intelligent_analysis_backend/pom.xml" />
+      <jump line="466" column="29" filename="/lns/cworkspaces/intelligent_analysis_backend/pom.xml" />
+      <jump line="467" column="18" filename="/lns/cworkspaces/intelligent_analysis_backend/pom.xml" />
+      <jump line="468" column="17" filename="/lns/cworkspaces/intelligent_analysis_backend/pom.xml" />
+      <jump line="471" column="29" filename="/lns/cworkspaces/intelligent_analysis_backend/pom.xml" />
+      <jump line="472" column="18" filename="/lns/cworkspaces/intelligent_analysis_backend/pom.xml" />
+      <jump line="473" column="17" filename="/lns/cworkspaces/intelligent_analysis_backend/pom.xml" />
+      <jump line="476" column="29" filename="/lns/cworkspaces/intelligent_analysis_backend/pom.xml" />
+      <jump line="477" column="18" filename="/lns/cworkspaces/intelligent_analysis_backend/pom.xml" />
+      <jump line="478" column="17" filename="/lns/cworkspaces/intelligent_analysis_backend/pom.xml" />
+      <jump line="481" column="29" filename="/lns/cworkspaces/intelligent_analysis_backend/pom.xml" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
@@ -415,7 +415,7 @@
         <text>]</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxhcnJheUh0dHBNZXNzYWdlQ29udmVydGVyXD4=</text>
+        <text>jackson</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">IyMjIFNlbmQgUE9TVCByZXF1ZXN0IHdpdGggYm9keSBhcyBwYXJhbWV0ZXJzClBPU1QgaHR0cDovLzEyNy4wLjAuMTo4MDkxL2pxZngvY29uc29sZS9tZW51L3VwZGF0ZQpDb250ZW50LVR5cGU6IGFwcGxpY2F0aW9uL3gtd3d3LWZvcm0tdXJsZW5jb2RlZAoKbWVudUlkPTY2NzkyOTkyOTY4MjQ3OTEwNDAmbWVudU5hbWU9TEvkv67mlLnmtYvor5Xoj5zljZUmcGFyZW50SWQ9MCZzdGF0dXM9MAo=</text>
@@ -454,12 +454,12 @@
   </component>
   <component name="VimSearchSettings">
     <search>
-      <last-search encoding="base64">XDxhcnJheUh0dHBNZXNzYWdlQ29udmVydGVyXD4=</last-search>
+      <last-search>jackson</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxhcnJheUh0dHBNZXNzYWdlQ29udmVydGVyXD4=</last-pattern>
+      <last-pattern>jackson</last-pattern>
       <last-replace encoding="base64">bGVuZ3RoKCkg</last-replace>
       <last-substitute encoding="base64">bGVuZ3RoIA==</last-substitute>
-      <last-dir>-1</last-dir>
+      <last-dir>1</last-dir>
       <show-last>true</show-last>
     </search>
   </component>
