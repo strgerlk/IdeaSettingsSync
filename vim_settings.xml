@@ -193,8 +193,8 @@
         <mark key="^" line="181" column="50" />
         <mark key="." line="181" column="49" />
       </file>
-      <file name="/lns/cworkspaces/intelligent_analysis_backend/src/main/java/com/mingyi/project/console/menu/vo/MenuVO.java" timestamp="1592453491019">
-        <mark key="[" line="36" column="5" />
+      <file name="/lns/cworkspaces/intelligent_analysis_backend/src/main/java/com/mingyi/project/console/menu/vo/MenuVO.java" timestamp="1592453492649">
+        <mark key="[" line="0" column="0" />
         <mark key="]" line="38" column="31" />
         <mark key="^" line="38" column="31" />
         <mark key="." line="38" column="30" />
@@ -227,11 +227,11 @@
       <file name="/dummy.sql" timestamp="1592444291331">
         <mark key="[" line="0" column="7" />
       </file>
-      <file name="/lns/cworkspaces/intelligent_analysis_backend/src/main/java/com/mingyi/project/console/menu/service/impl/MenuServiceImpl.java" timestamp="1592453460649">
-        <mark key="[" line="29" column="49" />
-        <mark key="]" line="29" column="50" />
-        <mark key="." line="29" column="49" />
-        <mark key="^" line="29" column="50" />
+      <file name="/lns/cworkspaces/intelligent_analysis_backend/src/main/java/com/mingyi/project/console/menu/service/impl/MenuServiceImpl.java" timestamp="1592453522739">
+        <mark key="[" line="33" column="8" />
+        <mark key="]" line="30" column="0" />
+        <mark key="." line="30" column="0" />
+        <mark key="^" line="33" column="8" />
       </file>
       <file name="/Dummy.txt" timestamp="1592444285224">
         <mark key="[" line="0" column="0" />
@@ -383,7 +383,7 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name="*" type="2">
-        <text encoding="base64">CiAgICBwdWJsaWMgU3RyaW5nIGdldFBhcmVudElkKCkgewogICAgICAgIHJldHVybiBwYXJlbnRJZDsKICAgIH0KCiAgICBwdWJsaWMgdm9pZCBzZXRQYXJlbnRJZChTdHJpbmcgcGFyZW50SWQpIHsKICAgICAgICB0aGlzLnBhcmVudElkID0gcGFyZW50SWQ7CiAgICB9Cg==</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="-" type="4">
         <text>String</text>
@@ -395,32 +395,32 @@
         <text>getNextChildInfo</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">CiAgICBwdWJsaWMgU3RyaW5nIGdldFBhcmVudElkKCkgewogICAgICAgIHJldHVybiBwYXJlbnRJZDsKICAgIH0KCiAgICBwdWJsaWMgdm9pZCBzZXRQYXJlbnRJZChTdHJpbmcgcGFyZW50SWQpIHsKICAgICAgICB0aGlzLnBhcmVudElkID0gcGFyZW50SWQ7CiAgICB9Cg==</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBzZWxlY3QgbGV2ZWwgKyAxIGxldmVsLAogICAgICAgICAgICAoc2VsZWN0IG1heChkaXNwbGF5X29yZGVyKSBmcm9tIHZhX2Rldi5hX3BmX21lbnUgd2hlcmUgcGFyZW50X2lkID0gI3swfSkgKyAxIGRpc3BsYXlfb3JkZXIKICAgICAgICBmcm9tIHZhX2Rldi5hX3BmX21lbnUKICAgICAgICB3aGVyZSBtZW51X2lkID0gI3swfQogICAgICAgIAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
+        <text encoding="base64">CiAgICBwdWJsaWMgU3RyaW5nIGdldFBhcmVudElkKCkgewogICAgICAgIHJldHVybiBwYXJlbnRJZDsKICAgIH0KCiAgICBwdWJsaWMgdm9pZCBzZXRQYXJlbnRJZChTdHJpbmcgcGFyZW50SWQpIHsKICAgICAgICB0aGlzLnBhcmVudElkID0gcGFyZW50SWQ7CiAgICB9Cg==</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgICAgICBzZWxlY3QgbGV2ZWwgKyAxIGxldmVsLAogICAgICAgICAgICAoc2VsZWN0IG1heChkaXNwbGF5X29yZGVyKSBmcm9tIHZhX2Rldi5hX3BmX21lbnUgd2hlcmUgcGFyZW50X2lkID0gI3swfSkgKyAxIGRpc3BsYXlfb3JkZXIKICAgICAgICBmcm9tIHZhX2Rldi5hX3BmX21lbnUKICAgICAgICB3aGVyZSBtZW51X2lkID0gI3swfQogICAgICAgIAo=</text>
+      </register>
+      <register name="5" type="2">
         <text encoding="base64">Owo=</text>
       </register>
-      <register name="4" type="4">
+      <register name="6" type="4">
         <text>from va_dev.a_pf_menu
 where menu_id = 200062</text>
       </register>
-      <register name="5" type="2">
+      <register name="7" type="2">
         <text encoding="base64">dXBkYXRlIHZhX2Rldi5hX3BmX21lbnUgdCBzZXQgdC5wYXJlbnRfaWQgPSAnMCcgd2hlcmUgcGFyZW50X2lkIGlzIG51bGw7Cg==</text>
       </register>
-      <register name="6" type="2">
+      <register name="8" type="2">
         <text encoding="base64">ICAgICAgICAK</text>
       </register>
-      <register name="7" type="2">
-        <text encoding="base64">ZGVsZXRlIGZyb20gdmFfZGV2LmFfcGZfbWVudSB3aGVyZSBtZW51X2lkICA8IDIwMDAwMDsK</text>
-      </register>
-      <register name="8" type="2">
-        <text encoding="base64">aW4K</text>
-      </register>
       <register name="9" type="2">
-        <text encoding="base64">dXBkYXRlIHZhX2Rldi5hX3BmX21lbnUgdCBzZXQgdC5wYXJlbnRfaWQgPSBudWxsIHdoZXJlIDE9MTsK</text>
+        <text encoding="base64">ZGVsZXRlIGZyb20gdmFfZGV2LmFfcGZfbWVudSB3aGVyZSBtZW51X2lkICA8IDIwMDAwMDsK</text>
       </register>
       <register name=":" type="4">
         <text>reg</text>
