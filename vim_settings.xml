@@ -167,8 +167,8 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
-      <file name="/lns/cworkspaces/intelligent_analysis_backend/src/main/java/com/mingyi/project/console/classify/controller/ClassifyController.java" timestamp="1592485701578">
-        <mark key="'" line="48" column="4" />
+      <file name="/lns/cworkspaces/intelligent_analysis_backend/src/main/java/com/mingyi/project/console/classify/controller/ClassifyController.java" timestamp="1592550464648">
+        <mark key="'" line="24" column="37" />
         <mark key="[" line="72" column="61" />
         <mark key="]" line="73" column="46" />
         <mark key="^" line="73" column="46" />
@@ -181,12 +181,12 @@
         <mark key="." line="23" column="0" />
         <mark key="^" line="23" column="1" />
       </file>
-      <file name="/lns/cworkspaces/intelligent_analysis_backend/src/main/java/com/mingyi/project/console/classify/service/impl/ClassifyServiceImpl.java" timestamp="1592485242033">
+      <file name="/lns/cworkspaces/intelligent_analysis_backend/src/main/java/com/mingyi/project/console/classify/service/impl/ClassifyServiceImpl.java" timestamp="1592550321673">
         <mark key="'" line="78" column="0" />
-        <mark key="[" line="62" column="0" />
-        <mark key="]" line="62" column="0" />
-        <mark key="^" line="61" column="87" />
-        <mark key="." line="62" column="0" />
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="41" column="38" />
+        <mark key="^" line="41" column="38" />
+        <mark key="." line="41" column="37" />
       </file>
       <file name="/lns/cworkspaces/intelligent_analysis_backend/src/main/java/com/mingyi/project/console/classify/service/ClassifyService.java" timestamp="1592483711342">
         <mark key="'" line="29" column="14" />
@@ -242,19 +242,19 @@
         <mark key="." line="24" column="13" />
         <mark key="^" line="24" column="14" />
       </file>
-      <file name="$APPLICATION_CONFIG_DIR$/scratches/rest-api_1.http" timestamp="1592485745057">
+      <file name="$APPLICATION_CONFIG_DIR$/scratches/rest-api_1.http" timestamp="1592550415617">
         <mark key="'" line="34" column="52" />
-        <mark key="[" line="265" column="66" />
-        <mark key="]" line="265" column="66" />
-        <mark key="^" line="265" column="49" />
-        <mark key="." line="265" column="49" />
+        <mark key="[" line="225" column="49" />
+        <mark key="]" line="225" column="66" />
+        <mark key="^" line="225" column="49" />
+        <mark key="." line="225" column="49" />
       </file>
-      <file name="/lns/cworkspaces/intelligent_analysis_backend/docs/接口文档/控制台/专题分类管理.md" timestamp="1592547980888">
-        <mark key="'" line="131" column="0" />
-        <mark key="[" line="85" column="0" />
-        <mark key="]" line="79" column="0" />
-        <mark key="^" line="79" column="0" />
-        <mark key="." line="79" column="0" />
+      <file name="/lns/cworkspaces/intelligent_analysis_backend/docs/接口文档/控制台/专题分类管理.md" timestamp="1592550455004">
+        <mark key="'" line="31" column="0" />
+        <mark key="[" line="36" column="34" />
+        <mark key="]" line="31" column="12" />
+        <mark key="^" line="31" column="12" />
+        <mark key="." line="31" column="11" />
       </file>
       <file name="$APPLICATION_CONFIG_DIR$/consoles/db/e28fa94b-e855-4133-91c0-76216abe406c/console.sql" timestamp="1592483243163">
         <mark key="'" line="249" column="7" />
@@ -262,12 +262,6 @@
         <mark key="]" line="249" column="106" />
         <mark key="." line="249" column="105" />
         <mark key="^" line="249" column="106" />
-      </file>
-      <file name="/lns/cworkspaces/intelligent_analysis_backend/src/main/java/com/mingyi/project/console/menu/service/MenuService.java" timestamp="1592481401930">
-        <mark key="[" line="12" column="0" />
-        <mark key="]" line="45" column="34" />
-        <mark key="." line="24" column="8" />
-        <mark key="^" line="24" column="9" />
       </file>
       <file name="/lns/cworkspaces/intelligent_analysis_backend/src/main/java/com/mingyi/project/console/classify/vo/ClassifyVO.java" timestamp="1592483999496">
         <mark key="[" line="0" column="0" />
@@ -281,6 +275,13 @@
         <mark key="]" line="44" column="36" />
         <mark key="^" line="44" column="36" />
         <mark key="." line="44" column="35" />
+      </file>
+      <file name="/lns/cworkspaces/intelligent_analysis_backend/src/main/resources/config/applicationContext-dao.xml" timestamp="1592550163432">
+        <mark key="'" line="21" column="53" />
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="1" />
+        <mark key="^" line="0" column="1" />
+        <mark key="." line="0" column="0" />
       </file>
       <file name="$APPLICATION_CONFIG_DIR$/consoles/db/03a0a04a-f457-4d55-af20-a9316286cc80/console.sql" timestamp="1592484041027">
         <mark key="[" line="17" column="53" />
@@ -296,26 +297,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="12" column="5" filename="/EasyCodeTemplate.vm.ft" />
-      <jump line="51" column="50" filename="/lns/cworkspaces/intelligent_analysis_backend/src/main/java/com/mingyi/project/aitype/caseinfo/controller/CaseInfoController.java" />
-      <jump line="66" column="38" filename="/lns/cworkspaces/intelligent_analysis_backend/src/main/java/com/mingyi/project/console/caserevert/controller/CaseRevertController.java" />
-      <jump line="124" column="44" filename="$APPLICATION_CONFIG_DIR$/scratches/rest-api_1.http" />
-      <jump line="0" column="0" filename="$APPLICATION_CONFIG_DIR$/scratches/rest-api_1.http" />
-      <jump line="151" column="32" filename="$APPLICATION_CONFIG_DIR$/scratches/rest-api_1.http" />
-      <jump line="144" column="32" filename="$APPLICATION_CONFIG_DIR$/scratches/rest-api_1.http" />
-      <jump line="10" column="32" filename="$APPLICATION_CONFIG_DIR$/scratches/rest-api_1.http" />
-      <jump line="21" column="32" filename="$APPLICATION_CONFIG_DIR$/scratches/rest-api_1.http" />
-      <jump line="25" column="39" filename="$APPLICATION_CONFIG_DIR$/consoles/db/03a0a04a-f457-4d55-af20-a9316286cc80/console.sql" />
-      <jump line="4" column="20" filename="/lns/cworkspaces/intelligent_analysis_backend/src/main/java/com/mingyi/project/console/menu/po/MenuPO.java" />
-      <jump line="30" column="64" filename="/lns/cworkspaces/intelligent_analysis_backend/src/main/java/com/mingyi/project/console/caserevert/mapperh/CaseRevertMapperH.xml" />
-      <jump line="166" column="28" filename="$APPLICATION_CONFIG_DIR$/scratches/rest-api_1.http" />
-      <jump line="81" column="30" filename="/lns/cworkspaces/intelligent_analysis_backend/src/main/java/com/mingyi/project/console/caserevert/controller/CaseRevertController.java" />
-      <jump line="13" column="29" filename="/lns/cworkspaces/intelligent_analysis_backend/src/main/java/com/mingyi/project/common/clickhouse/ClickHouseHelp.java" />
-      <jump line="77" column="18" filename="/lns/cworkspaces/intelligent_analysis_backend/src/main/java/com/mingyi/project/console/caserevert/controller/CaseRevertController.java" />
-      <jump line="15" column="18" filename="/lns/cworkspaces/intelligent_analysis_backend/src/main/java/com/mingyi/project/console/caserevert/controller/CaseRevertController.java" />
-      <jump line="20" column="40" filename="/lns/cworkspaces/intelligent_analysis_backend/src/main/java/com/mingyi/project/console/menu/po/MenuPO.java" />
-      <jump line="16" column="32" filename="/lns/cworkspaces/intelligent_analysis_backend/src/main/java/com/mingyi/project/console/menu/po/MenuPO.java" />
-      <jump line="24" column="0" filename="/lns/cworkspaces/intelligent_analysis_backend/src/main/java/com/mingyi/project/console/menu/mapper/MenuMapper.xml" />
       <jump line="20" column="23" filename="/lns/cworkspaces/intelligent_analysis_backend/src/main/java/com/mingyi/project/console/menu/mapper/MenuMapper.xml" />
       <jump line="34" column="0" filename="/lns/cworkspaces/intelligent_analysis_backend/src/main/java/com/mingyi/project/console/menu/po/MenuPO.java" />
       <jump line="95" column="29" filename="/lns/cworkspaces/intelligent_analysis_backend/src/main/java/com/mingyi/project/console/menu/po/MenuPO.java" />
@@ -394,8 +375,28 @@
       <jump line="72" column="30" filename="/lns/cworkspaces/intelligent_analysis_backend/src/main/java/com/mingyi/project/console/classify/controller/ClassifyController.java" />
       <jump line="80" column="0" filename="/lns/cworkspaces/intelligent_analysis_backend/src/main/java/com/mingyi/project/console/classify/service/impl/ClassifyServiceImpl.java" />
       <jump line="5" column="17" filename="/lns/cworkspaces/intelligent_analysis_backend/docs/接口文档/控制台/专题分类管理.md" />
-      <jump line="131" column="0" filename="/lns/cworkspaces/intelligent_analysis_backend/docs/接口文档/控制台/专题分类管理.md" />
       <jump line="48" column="4" filename="/lns/cworkspaces/intelligent_analysis_backend/src/main/java/com/mingyi/project/console/classify/controller/ClassifyController.java" />
+      <jump line="21" column="53" filename="/lns/cworkspaces/intelligent_analysis_backend/src/main/resources/config/applicationContext-dao.xml" />
+      <jump line="24" column="37" filename="/lns/cworkspaces/intelligent_analysis_backend/src/main/java/com/mingyi/project/console/classify/controller/ClassifyController.java" />
+      <jump line="131" column="0" filename="/lns/cworkspaces/intelligent_analysis_backend/docs/接口文档/控制台/专题分类管理.md" />
+      <jump line="24" column="22" filename="/lns/cworkspaces/intelligent_analysis_backend/docs/接口文档/控制台/专题分类管理.md" />
+      <jump line="0" column="0" filename="/lns/cworkspaces/intelligent_analysis_backend/docs/接口文档/控制台/专题分类管理.md" />
+      <jump line="1" column="0" filename="/lns/cworkspaces/intelligent_analysis_backend/docs/接口文档/控制台/专题分类管理.md" />
+      <jump line="2" column="0" filename="/lns/cworkspaces/intelligent_analysis_backend/docs/接口文档/控制台/专题分类管理.md" />
+      <jump line="3" column="0" filename="/lns/cworkspaces/intelligent_analysis_backend/docs/接口文档/控制台/专题分类管理.md" />
+      <jump line="4" column="0" filename="/lns/cworkspaces/intelligent_analysis_backend/docs/接口文档/控制台/专题分类管理.md" />
+      <jump line="7" column="0" filename="/lns/cworkspaces/intelligent_analysis_backend/docs/接口文档/控制台/专题分类管理.md" />
+      <jump line="8" column="0" filename="/lns/cworkspaces/intelligent_analysis_backend/docs/接口文档/控制台/专题分类管理.md" />
+      <jump line="9" column="0" filename="/lns/cworkspaces/intelligent_analysis_backend/docs/接口文档/控制台/专题分类管理.md" />
+      <jump line="10" column="0" filename="/lns/cworkspaces/intelligent_analysis_backend/docs/接口文档/控制台/专题分类管理.md" />
+      <jump line="11" column="0" filename="/lns/cworkspaces/intelligent_analysis_backend/docs/接口文档/控制台/专题分类管理.md" />
+      <jump line="12" column="0" filename="/lns/cworkspaces/intelligent_analysis_backend/docs/接口文档/控制台/专题分类管理.md" />
+      <jump line="13" column="0" filename="/lns/cworkspaces/intelligent_analysis_backend/docs/接口文档/控制台/专题分类管理.md" />
+      <jump line="14" column="0" filename="/lns/cworkspaces/intelligent_analysis_backend/docs/接口文档/控制台/专题分类管理.md" />
+      <jump line="15" column="0" filename="/lns/cworkspaces/intelligent_analysis_backend/docs/接口文档/控制台/专题分类管理.md" />
+      <jump line="16" column="0" filename="/lns/cworkspaces/intelligent_analysis_backend/docs/接口文档/控制台/专题分类管理.md" />
+      <jump line="30" column="0" filename="/lns/cworkspaces/intelligent_analysis_backend/docs/接口文档/控制台/专题分类管理.md" />
+      <jump line="31" column="0" filename="/lns/cworkspaces/intelligent_analysis_backend/docs/接口文档/控制台/专题分类管理.md" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
@@ -404,7 +405,7 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name="*" type="2">
-        <text encoding="base64">fCBsZXZlbCB8IOe6p+WIqyB8IFkgfAo=</text>
+        <text encoding="base64">IyMjIDHjgIHmn6Xor6Loj5zljZXmoJEKCiMjIyMgMe+8ieivt+axguWcsOWdgAoKYGBgCmNvbnNvbGUvY2xhc3NpZnkvcXVlcnlDbGFzc2lmeVRyZWUKYGBgCgojIyMjIDLvvInor7fmsYLlj4LmlbAKCuaXoAoKIyMjIyAz77yJ6L+U5Zue57uT5p6cCgoqKuWtl+auteivtOaYjioqCgp8ICDlj4LmlbDmoIfor4YgICB8IOWPguaVsOivtOaYjiB8CnwgOi0tLS0tLS0tLTogfCA6LS0tLS0tOiB8CnwgY29kZSB8IOe8luWPtyB8CnwgbmFtZSB8IOWQjeensCB8CnwgbGV2ZWwgfCDnuqfliKsgfAp8IHBhcmVudENvZGUgfCDniLbnuqfnvJblj7cgfAp8IGNoaWxkcmVuIHwg5a2Q57G7IHwKfCBhdHRyaWJ1dGVzIHwg5YW25LuW5bGe5oCnIHwKfCBkaXNhYmxlRmxhZyB8IOemgeeUqOagh+ivhu+8iDAt5ZCm77yMMS3mmK/vvIkgfAp8IGRpc3BsYXlPcmRlciB8IOWxleekuumhuuW6jyB8CnwgcmVtYXJrIHwg5aSH5rOoIHwKfCBhaXR5cGVEYXRhU2hvdyB8IOaZuuiDveWIhuexu+aooeWdl+aVsOaNruaYr+WQpuWxleekuu+8iDAt5ZCm77yMMS3mmK/vvIkgfAp8IGFpdHlwZURpc3BsYXkgfCDmmbrog73liIbnsbvmqKHlnZfmlbDmja7mmK/lkKbpq5jkuq7vvIgwLeWQpu+8jDEt5piv77yJIHwKfCBhaXR5cGVHcmV5IHwg5pm66IO95YiG57G75qih5Z2X5pWw5o2u5piv5ZCm54Gw5pi+77yIMC3lkKbvvIwxLeaYr++8iSB8Cg==</text>
       </register>
       <register name="-" type="4">
         <text>menu</text>
@@ -413,34 +414,34 @@
         <text>menu</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">IyMjIFNlbmQgUE9TVCByZXF1ZXN0IHdpdGggYm9keSBhcyBwYXJhbWV0ZXJzClBPU1QgaHR0cDovLzEyNy4wLjAuMTo4MDkxL2pxZngvY29uc29sZS9tZW51L2FkZApDb250ZW50LVR5cGU6IGFwcGxpY2F0aW9uL3gtd3d3LWZvcm0tdXJsZW5jb2RlZAoKbWVudU5hbWU9TEvmtYvor5XkuInnuqfoj5zljZUmcGFyZW50SWQ9NjY3OTI5OTE0MzkzNDAyMTYzMiZzdGF0dXM9MAoKCgoKCiMjIyBTZW5kIFBPU1QgcmVxdWVzdCB3aXRoIGJvZHkgYXMgcGFyYW1ldGVycwpQT1NUIGh0dHA6Ly8xMjcuMC4wLjE6ODA5MS9qcWZ4L2NvbnNvbGUvbWVudS9kZWxldGUKQ29udGVudC1UeXBlOiBhcHBsaWNhdGlvbi94LXd3dy1mb3JtLXVybGVuY29kZWQKCm1lbnVJZD02Njc5MjgwODU0NzQyNzMyODAwCgoKIyMjIFNlbmQgUE9TVCByZXF1ZXN0IHdpdGggYm9keSBhcyBwYXJhbWV0ZXJzClBPU1QgaHR0cDovLzEyNy4wLjAuMTo4MDkxL2pxZngvY29uc29sZS9tZW51L3VwZGF0ZQpDb250ZW50LVR5cGU6IGFwcGxpY2F0aW9uL3gtd3d3LWZvcm0tdXJsZW5jb2RlZAoKbWVudUlkPTY2NzkyOTkyOTY4MjQ3OTEwNDAmbWVudU5hbWU9TEvkv67mlLnmtYvor5Xoj5zljZUmcGFyZW50SWQ9MCZzdGF0dXM9MAoKPD4gMjAyMC0wNi0xOFQwNDU1MDAuMjAwLmh0bWwKPD4gMjAyMC0wNi0xOFQwNDUzNTguMjAwLmh0bWwKPD4gMjAyMC0wNi0xOFQwNDUyNTYuMjAwLmh0bWwKPD4gMjAyMC0wNi0xOFQwNDUxMzUuMjAwLmh0bWwKPD4gMjAyMC0wNi0xOFQwNDQ2MzEuMjAwLmh0bWwKPD4gMjAyMC0wNi0xOFQwNDQzMjcuMjAwLmh0bWwKPD4gMjAyMC0wNi0xOFQwNDM5MzIuMjAwLmh0bWwKPD4gMjAyMC0wNi0xOFQwNDM5MjEuMjAwLmh0bWwKCgoKIyMjIFNlbmQgUE9TVCByZXF1ZXN0IHdpdGggYm9keSBhcyBwYXJhbWV0ZXJzClBPU1QgaHR0cDovLzEyNy4wLjAuMTo4MDkxL2pxZngvY29uc29sZS9tZW51L3NvcnQKQ29udGVudC1UeXBlOiBhcHBsaWNhdGlvbi9qc29uCgpbeyJtZW51SWQiOjY2NzkyODEzNTExNTUzODg0MTYsICJwYXJlbnRJZCI6MH0sCiAgeyJtZW51SWQiOiA2Njc5Mjk5MDA2Mzk4NTk5MTY4LCAicGFyZW50SWQiOiAwfSwKICB7Im1lbnVJZCI6IDY2NzkyOTkxMjgzNjQ3NjUxODQsICJwYXJlbnRJZCI6IDY2NzkyOTkwMDYzOTg1OTkxNjh9LAogIHsibWVudUlkIjogNjY3OTI5OTE0MzkzNDAyMTYzMiwgInBhcmVudElkIjogNjY3OTI4MTM1MTE1NTM4ODQxNn0sCiAgeyJtZW51SWQiOiA2Njc5Mjk5Mjk2ODI0NzkxMDQwLCAicGFyZW50SWQiOiA2Njc5Mjk5MTQzOTM0MDIxNjMyfSwKICB7Im1lbnVJZCI6IDY2NzkyOTkzMTAwMTE2ODI4MTYsICJwYXJlbnRJZCI6IDY2NzkyOTkxNDM5MzQwMjE2MzJ9XQoKCgoKIyMjIFNlbmQgUE9TVCByZXF1ZXN0IHdpdGggYm9keSBhcyBwYXJhbWV0ZXJzClBPU1QgaHR0cDovLzEyNy4wLjAuMTo4MDkxL2pxZngvY29uc29sZS9tZW51L3F1ZXJ5TWVudVRyZWUKQ29udGVudC1UeXBlOiBhcHBsaWNhdGlvbi9qc29uCgo8PiAyMDIwLTA2LTE4VDA2MzUwMy4yMDAuaHRtbAoK</text>
+        <text encoding="base64">IyMjIDHjgIHmn6Xor6Loj5zljZXmoJEKCiMjIyMgMe+8ieivt+axguWcsOWdgAoKYGBgCmNvbnNvbGUvY2xhc3NpZnkvcXVlcnlDbGFzc2lmeVRyZWUKYGBgCgojIyMjIDLvvInor7fmsYLlj4LmlbAKCuaXoAoKIyMjIyAz77yJ6L+U5Zue57uT5p6cCgoqKuWtl+auteivtOaYjioqCgp8ICDlj4LmlbDmoIfor4YgICB8IOWPguaVsOivtOaYjiB8CnwgOi0tLS0tLS0tLTogfCA6LS0tLS0tOiB8CnwgY29kZSB8IOe8luWPtyB8CnwgbmFtZSB8IOWQjeensCB8CnwgbGV2ZWwgfCDnuqfliKsgfAp8IHBhcmVudENvZGUgfCDniLbnuqfnvJblj7cgfAp8IGNoaWxkcmVuIHwg5a2Q57G7IHwKfCBhdHRyaWJ1dGVzIHwg5YW25LuW5bGe5oCnIHwKfCBkaXNhYmxlRmxhZyB8IOemgeeUqOagh+ivhu+8iDAt5ZCm77yMMS3mmK/vvIkgfAp8IGRpc3BsYXlPcmRlciB8IOWxleekuumhuuW6jyB8CnwgcmVtYXJrIHwg5aSH5rOoIHwKfCBhaXR5cGVEYXRhU2hvdyB8IOaZuuiDveWIhuexu+aooeWdl+aVsOaNruaYr+WQpuWxleekuu+8iDAt5ZCm77yMMS3mmK/vvIkgfAp8IGFpdHlwZURpc3BsYXkgfCDmmbrog73liIbnsbvmqKHlnZfmlbDmja7mmK/lkKbpq5jkuq7vvIgwLeWQpu+8jDEt5piv77yJIHwKfCBhaXR5cGVHcmV5IHwg5pm66IO95YiG57G75qih5Z2X5pWw5o2u5piv5ZCm54Gw5pi+77yIMC3lkKbvvIwxLeaYr++8iSB8Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">fCBsZXZlbCB8IOe6p+WIqyB8IFkgfAo=</text>
-      </register>
-      <register name="2" type="2">
-        <text encoding="base64">fCBkaXNwbGF5T3JkZXIgfCDlsZXnpLrpobrluo8gfCBZIHwK</text>
-      </register>
-      <register name="3" type="2">
-        <text encoding="base64">fCBjbGFzc2lmeU5hbWUgfCDoj5zljZXlkI3np7AgfCBZIHwKfCBwYXJlbnRJZCB8IOeItue6p0lEKOmhtue6p+iKgueCuem7mOiupOS4uiAqKjAqKikgfCBZIHwKfCB1cmwgfCDlnLDlnYAgfCBOIHwKfCBzdGF0dXMgfCDnirbmgIEoMC7lkK/nlKgsMS7lgZznlKgpIHwgWSB8CnwgaWNvbiB8IOiKgueCueWbvuaghyB8IE4gfAp8IHJlbWFyayB8IOWkh+azqCB8IFkgfAo=</text>
-      </register>
-      <register name="4" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="2" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="3" type="2">
+        <text encoding="base64">fCBsZXZlbCB8IOe6p+WIqyB8IFkgfAo=</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">fCBkaXNwbGF5T3JkZXIgfCDlsZXnpLrpobrluo8gfCBZIHwK</text>
+      </register>
       <register name="5" type="2">
-        <text encoding="base64">fCBsZXZlbCB8IOWFtuS7luWxnuaApyB8CnwgaWNvbiB8IOWbvuaghyB8CnwgZGlzcGxheU9yZGVyIHwg5o6S5bqPIHwKfCByZW1hcmsgfCDlpIfms6ggfAp8IGxlYWYgfCDmmK/lkKblj7blrZDoioLngrnvvIgwLeWQpu+8jDEt5piv77yJIHwKfCB1cmwgfCDot6/lvoQgfAp8IHN0YXR1cyB8IOeKtuaAge+8iDAt5YGc55So77yMMS3lkK/nlKjvvIkgfAo=</text>
+        <text encoding="base64">fCBjbGFzc2lmeU5hbWUgfCDoj5zljZXlkI3np7AgfCBZIHwKfCBwYXJlbnRJZCB8IOeItue6p0lEKOmhtue6p+iKgueCuem7mOiupOS4uiAqKjAqKikgfCBZIHwKfCB1cmwgfCDlnLDlnYAgfCBOIHwKfCBzdGF0dXMgfCDnirbmgIEoMC7lkK/nlKgsMS7lgZznlKgpIHwgWSB8CnwgaWNvbiB8IOiKgueCueWbvuaghyB8IE4gfAp8IHJlbWFyayB8IOWkh+azqCB8IFkgfAo=</text>
       </register>
       <register name="6" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">fCBsZXZlbCB8IOWFtuS7luWxnuaApyB8CnwgaWNvbiB8IOWbvuaghyB8CnwgZGlzcGxheU9yZGVyIHwg5o6S5bqPIHwKfCByZW1hcmsgfCDlpIfms6ggfAp8IGxlYWYgfCDmmK/lkKblj7blrZDoioLngrnvvIgwLeWQpu+8jDEt5piv77yJIHwKfCB1cmwgfCDot6/lvoQgfAp8IHN0YXR1cyB8IOeKtuaAge+8iDAt5YGc55So77yMMS3lkK/nlKjvvIkgfAo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">PD4gMjAyMC0wNi0xOFQwNDU1MDAuMjAwLmh0bWwK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">PD4gMjAyMC0wNi0xOFQwNDUzNTguMjAwLmh0bWwKPD4gMjAyMC0wNi0xOFQwNDUyNTYuMjAwLmh0bWwKPD4gMjAyMC0wNi0xOFQwNDUxMzUuMjAwLmh0bWwKPD4gMjAyMC0wNi0xOFQwNDQ2MzEuMjAwLmh0bWwKPD4gMjAyMC0wNi0xOFQwNDQzMjcuMjAwLmh0bWwKPD4gMjAyMC0wNi0xOFQwNDM5MzIuMjAwLmh0bWwKPD4gMjAyMC0wNi0xOFQwNDM5MjEuMjAwLmh0bWwK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>%s/menu/classify/g</text>
