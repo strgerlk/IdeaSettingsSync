@@ -174,13 +174,6 @@
         <mark key="^" line="73" column="46" />
         <mark key="." line="73" column="45" />
       </file>
-      <file name="/lns/cworkspaces/intelligent_analysis_backend/src/main/java/com/mingyi/project/console/menu/service/impl/MenuServiceImpl.java" timestamp="1592481485588">
-        <mark key="'" line="83" column="28" />
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="23" column="1" />
-        <mark key="." line="23" column="0" />
-        <mark key="^" line="23" column="1" />
-      </file>
       <file name="/lns/cworkspaces/intelligent_analysis_backend/src/main/java/com/mingyi/project/console/classify/service/impl/ClassifyServiceImpl.java" timestamp="1592550321673">
         <mark key="'" line="78" column="0" />
         <mark key="[" line="0" column="0" />
@@ -235,6 +228,13 @@
         <mark key="]" line="22" column="38" />
         <mark key="^" line="22" column="38" />
         <mark key="." line="22" column="37" />
+      </file>
+      <file name="/lns/cworkspaces/intelligent_analysis_backend/src/main/java/com/mingyi/project/aitype/classifystat/service/impl/ClassifyStatServiceImpl.java" timestamp="1592567293059">
+        <mark key="'" line="103" column="51" />
+        <mark key="[" line="116" column="52" />
+        <mark key="]" line="116" column="52" />
+        <mark key="^" line="116" column="52" />
+        <mark key="." line="116" column="51" />
       </file>
       <file name="/lns/cworkspaces/intelligent_analysis_backend/src/main/java/com/mingyi/project/console/menu/controller/MenuController.java" timestamp="1592482171335">
         <mark key="'" line="57" column="0" />
@@ -298,7 +298,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="35" column="78" filename="$APPLICATION_CONFIG_DIR$/consoles/db/03a0a04a-f457-4d55-af20-a9316286cc80/console.sql" />
       <jump line="181" column="49" filename="$APPLICATION_CONFIG_DIR$/scratches/rest-api_1.http" />
       <jump line="34" column="6" filename="/lns/cworkspaces/intelligent_analysis_backend/src/main/java/com/mingyi/project/console/menu/mapper/MenuMapper.java" />
       <jump line="38" column="21" filename="/lns/cworkspaces/intelligent_analysis_backend/src/main/java/com/mingyi/project/console/menu/service/impl/MenuServiceImpl.java" />
@@ -398,6 +397,7 @@
       <jump line="34" column="52" filename="$APPLICATION_CONFIG_DIR$/scratches/rest-api_1.http" />
       <jump line="148" column="0" filename="$APPLICATION_CONFIG_DIR$/scratches/rest-api_1.http" />
       <jump line="24" column="57" filename="/lns/cworkspaces/intelligent_analysis_backend/src/main/java/com/mingyi/project/console/classify/mapper/ClassifyOriginMapper.xml" />
+      <jump line="103" column="51" filename="/lns/cworkspaces/intelligent_analysis_backend/src/main/java/com/mingyi/project/aitype/classifystat/service/impl/ClassifyStatServiceImpl.java" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
