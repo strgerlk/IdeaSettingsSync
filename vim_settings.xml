@@ -167,12 +167,12 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
-      <file name="/lns/cworkspaces/intelligent_analysis_backend/src/main/java/com/mingyi/project/console/classify/controller/ClassifyController.java" timestamp="1592550464648">
+      <file name="/lns/cworkspaces/intelligent_analysis_backend/src/main/java/com/mingyi/project/console/classify/controller/ClassifyController.java" timestamp="1592620153070">
         <mark key="'" line="24" column="37" />
-        <mark key="[" line="72" column="61" />
-        <mark key="]" line="73" column="46" />
-        <mark key="^" line="73" column="46" />
-        <mark key="." line="73" column="45" />
+        <mark key="[" line="48" column="5" />
+        <mark key="]" line="48" column="5" />
+        <mark key="^" line="48" column="5" />
+        <mark key="." line="48" column="4" />
       </file>
       <file name="/lns/cworkspaces/intelligent_analysis_backend/src/main/java/com/mingyi/project/console/classify/service/impl/ClassifyServiceImpl.java" timestamp="1592550321673">
         <mark key="'" line="78" column="0" />
