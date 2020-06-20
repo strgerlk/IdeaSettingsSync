@@ -284,11 +284,11 @@
         <mark key="^" line="0" column="1" />
         <mark key="." line="0" column="0" />
       </file>
-      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/03a0a04a-f457-4d55-af20-a9316286cc80/console.sql" timestamp="1592567739080">
-        <mark key="[" line="25" column="53" />
-        <mark key="]" line="25" column="53" />
-        <mark key="." line="25" column="52" />
-        <mark key="^" line="25" column="53" />
+      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/03a0a04a-f457-4d55-af20-a9316286cc80/console.sql" timestamp="1592618750552">
+        <mark key="[" line="39" column="59" />
+        <mark key="]" line="39" column="59" />
+        <mark key="." line="39" column="58" />
+        <mark key="^" line="39" column="59" />
       </file>
       <file name="/lns/cworkspaces/intelligent_analysis_backend/src/main/java/com/mingyi/project/console/classify/po/ClassifyOriginPO.java" timestamp="1592561850569">
         <mark key="[" line="0" column="0" />
