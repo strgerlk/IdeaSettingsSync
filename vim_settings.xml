@@ -174,11 +174,11 @@
         <mark key="^" line="47" column="69" />
         <mark key="." line="44" column="28" />
       </file>
-      <file name="/lns/cworkspaces/intelligent_analysis_backend/src/main/java/com/mingyi/webapp/utils/tree/TreeHandler.java" timestamp="1592749367165">
-        <mark key="[" line="66" column="0" />
-        <mark key="]" line="66" column="0" />
-        <mark key="^" line="67" column="13" />
-        <mark key="." line="66" column="0" />
+      <file name="/lns/cworkspaces/intelligent_analysis_backend/src/main/java/com/mingyi/webapp/utils/tree/TreeHandler.java" timestamp="1592752971133">
+        <mark key="[" line="91" column="38" />
+        <mark key="]" line="92" column="27" />
+        <mark key="^" line="92" column="27" />
+        <mark key="." line="92" column="26" />
       </file>
       <file name="/lns/cworkspaces/intelligent_analysis_backend/src/main/java/com/mingyi/project/console/caserevert/controller/CaseRevertController.java" timestamp="1592739273384">
         <mark key="[" line="82" column="58" />
@@ -395,10 +395,10 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name="*" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAvLyAK</text>
       </register>
       <register name="-" type="4">
-        <text>jqfx/console/menu/queryMenuTree</text>
+        <text>fatherIsExist</text>
       </register>
       <register name="/" type="4">
         <text>}</text>
@@ -407,31 +407,31 @@
         <text encoding="base64">ICAgICAgICAgICAgLy8g5Yi35paw6IqC54K557qn5YirCiAgICAgICAgICAgIGZsdXNoTGV2ZWwodGhpcy50cmVlLmdldExldmVsKCkrMSwgbm9kZSk7Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAvLyAK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgLy8g5Yi35paw6IqC54K557qn5YirCiAgICAgICAgICAgIGZsdXNoTGV2ZWwodGhpcy50cmVlLmdldExldmVsKCkrMSwgbm9kZSk7Cg==</text>
-      </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgTGlzdDxUcmVlTm9kZT4gY2hpbGRyZW4gPSB0aGlzLnRyZWUuZ2V0Q2hpbGRyZW4oKTsK</text>
-      </register>
-      <register name="4" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgLy8g5Yi35paw6IqC54K557qn5YirCiAgICAgICAgICAgIGZsdXNoTGV2ZWwodGhpcy50cmVlLmdldExldmVsKCkrMSwgbm9kZSk7Cg==</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgICAgICBCb29sZWFuIGZhdGhlcklzRXhpc3QgPSBmdW5jLmFwcGx5KHRoaXMudHJlZSk7Cg==</text>
+      </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgTGlzdDxUcmVlTm9kZT4gY2hpbGRMaXN0ID0gY2hpbGRyZW4uc3RyZWFtKCkuZmlsdGVyKHggLT4gbm9kZS5nZXRDb2RlKCkuZXF1YWxzKHguZ2V0UGFyZW50Q29kZSgpKSkuY29sbGVjdChDb2xsZWN0b3JzLnRvTGlzdCgpKTsKICAgICAgICAgICAgaWYgKCFDb2xsZWN0aW9uVXRpbHMuaXNFbXB0eShjaGlsZExpc3QpKSB7CiAgICAgICAgICAgICAgICBub2RlLnNldENoaWxkcmVuKG5ldyBBcnJheUxpc3Q8PigpKTsKICAgICAgICAgICAgICAgIGNoaWxkTGlzdC5mb3JFYWNoKHggLT4gewogICAgICAgICAgICAgICAgICAgIG5vZGUuZ2V0Q2hpbGRyZW4oKS5hZGQoeCk7CiAgICAgICAgICAgICAgICAgICAgY2hpbGRyZW4ucmVtb3ZlKHgpOwogICAgICAgICAgICAgICAgfSk7CiAgICAgICAgICAgIH0K</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">IyMjIFNlbmQgUE9TVCByZXF1ZXN0IHdpdGggYm9keSBhcyBwYXJhbWV0ZXJzClBPU1QgaHR0cDovLzEyNy4wLjAuMTo4MDkxL2pxZngvY29tbW9uL2JzcGFyYW0vZ2V0UGFyYW1MaXN0CkNvbnRlbnQtVHlwZTogYXBwbGljYXRpb24veC13d3ctZm9ybS11cmxlbmNvZGVkCgo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgLy8g5Yi35paw6IqC54K557qn5YirCiAgICAgICAgICAgIGZsdXNoTGV2ZWwodGhpcy50cmVlLmdldExldmVsKCkrMSwgbm9kZSk7Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgfQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgTGlzdDxUcmVlTm9kZT4gY2hpbGRyZW4gPSB0aGlzLnRyZWUuZ2V0Q2hpbGRyZW4oKTsK</text>
       </register>
       <register name="8" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIG5vZGUuZ2V0Q2hpbGRyZW4oKS5hZGQoY2hpbGQpOwogICAgICAgICAgICAgICAgY2hpbGRyZW4ucmVtb3ZlKGNoaWxkKTsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgTGlzdDxUcmVlTm9kZT4gY2hpbGRMaXN0ID0gY2hpbGRyZW4uc3RyZWFtKCkuZmlsdGVyKHggLT4gbm9kZS5nZXRDb2RlKCkuZXF1YWxzKHguZ2V0UGFyZW50Q29kZSgpKSkuY29sbGVjdChDb2xsZWN0b3JzLnRvTGlzdCgpKTsKICAgICAgICAgICAgaWYgKCFDb2xsZWN0aW9uVXRpbHMuaXNFbXB0eShjaGlsZExpc3QpKSB7CiAgICAgICAgICAgICAgICBub2RlLnNldENoaWxkcmVuKG5ldyBBcnJheUxpc3Q8PigpKTsKICAgICAgICAgICAgICAgIGNoaWxkTGlzdC5mb3JFYWNoKHggLT4gewogICAgICAgICAgICAgICAgICAgIG5vZGUuZ2V0Q2hpbGRyZW4oKS5hZGQoeCk7CiAgICAgICAgICAgICAgICAgICAgY2hpbGRyZW4ucmVtb3ZlKHgpOwogICAgICAgICAgICAgICAgfSk7CiAgICAgICAgICAgIH0K</text>
       </register>
       <register name=":" type="4">
         <text encoding="base64">JzwsJz5zL30vXS9n</text>
