@@ -261,11 +261,11 @@
         <mark key="^" line="15" column="15" />
         <mark key="." line="15" column="14" />
       </file>
-      <file name="/lns/cworkspaces/intelligent_analysis_backend/src/main/java/com/mingyi/project/console/classify/mapper/ClassifyMapper.xml" timestamp="1592744061004">
-        <mark key="[" line="14" column="36" />
-        <mark key="]" line="14" column="37" />
-        <mark key="." line="14" column="36" />
-        <mark key="^" line="14" column="37" />
+      <file name="/lns/cworkspaces/intelligent_analysis_backend/src/main/java/com/mingyi/project/console/classify/mapper/ClassifyMapper.xml" timestamp="1592745519962">
+        <mark key="[" line="16" column="33" />
+        <mark key="]" line="16" column="33" />
+        <mark key="." line="16" column="32" />
+        <mark key="^" line="16" column="33" />
       </file>
       <file name="/lns/cworkspaces/intelligent_analysis_backend/src/main/java/com/mingyi/project/console/classify/po/ClassifyPO.java" timestamp="1592741163870">
         <mark key="[" line="0" column="0" />
