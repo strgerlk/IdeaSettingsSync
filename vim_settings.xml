@@ -204,12 +204,6 @@
         <mark key="." line="80" column="10" />
         <mark key="^" line="80" column="11" />
       </file>
-      <file name="/lns/cworkspaces/intelligent_analysis_backend/src/main/java/com/mingyi/project/console/classify/po/ClassifyPO.java" timestamp="1592481830582">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="7" column="28" />
-        <mark key="^" line="7" column="28" />
-        <mark key="." line="7" column="27" />
-      </file>
       <file name="/lns/cworkspaces/intelligent_analysis_backend/docs/接口文档/公用接口/业务参数接口.md" timestamp="1592485831886">
         <mark key="[" line="34" column="0" />
         <mark key="]" line="34" column="0" />
@@ -296,9 +290,15 @@
         <mark key="." line="2" column="13" />
         <mark key="^" line="2" column="14" />
       </file>
+      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/94cbc1c6-2e49-453f-846d-850fdf2aa7ff/console.sql" timestamp="1592707800373">
+        <mark key="'" line="16" column="19" />
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="9" column="20" />
+        <mark key="^" line="9" column="20" />
+        <mark key="." line="9" column="19" />
+      </file>
     </filemarks>
     <jumps>
-      <jump line="181" column="49" filename="$APPLICATION_CONFIG_DIR$/scratches/rest-api_1.http" />
       <jump line="34" column="6" filename="/lns/cworkspaces/intelligent_analysis_backend/src/main/java/com/mingyi/project/console/menu/mapper/MenuMapper.java" />
       <jump line="38" column="21" filename="/lns/cworkspaces/intelligent_analysis_backend/src/main/java/com/mingyi/project/console/menu/service/impl/MenuServiceImpl.java" />
       <jump line="17" column="13" filename="/lns/cworkspaces/intelligent_analysis_backend/src/main/java/com/mingyi/webapp/utils/tree/TreeHandler.java" />
@@ -398,6 +398,7 @@
       <jump line="148" column="0" filename="$APPLICATION_CONFIG_DIR$/scratches/rest-api_1.http" />
       <jump line="24" column="57" filename="/lns/cworkspaces/intelligent_analysis_backend/src/main/java/com/mingyi/project/console/classify/mapper/ClassifyOriginMapper.xml" />
       <jump line="103" column="51" filename="/lns/cworkspaces/intelligent_analysis_backend/src/main/java/com/mingyi/project/aitype/classifystat/service/impl/ClassifyStatServiceImpl.java" />
+      <jump line="16" column="19" filename="$APPLICATION_CONFIG_DIR$/consoles/db/94cbc1c6-2e49-453f-846d-850fdf2aa7ff/console.sql" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
