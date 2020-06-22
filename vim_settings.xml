@@ -5,18 +5,15 @@
   <component name="VimHistorySettings">
     <history>
       <history-search>
-        <entry>leaf</entry>
         <entry>Seq</entry>
         <entry encoding="base64">XDxncm91cEFycmF5XD4=</entry>
         <entry encoding="base64">bGVuZ3RoIA==</entry>
         <entry encoding="base64">XDxhcnJheUh0dHBNZXNzYWdlQ29udmVydGVyXD4=</entry>
         <entry>fast</entry>
         <entry>jackson</entry>
-        <entry>a_pf_menu</entry>
         <entry>menuName</entry>
         <entry>parent</entry>
         <entry>_id</entry>
-        <entry>menuId</entry>
         <entry>queryCaseInfo</entry>
         <entry>va_dev.</entry>
         <entry>sort</entry>
@@ -24,12 +21,12 @@
         <entry>}</entry>
         <entry>delete</entry>
         <entry>menu</entry>
+        <entry>a_pf_menu</entry>
+        <entry>menu_id</entry>
+        <entry>menuId</entry>
         <entry>Menu</entry>
       </history-search>
       <history-cmd>
-        <entry>%s/bs_aitype_favorite_case/bs_case_favorite_relation/g</entry>
-        <entry>%s/,#//g</entry>
-        <entry>%s/,&quot;/,/g</entry>
         <entry>nohl</entry>
         <entry>reg</entry>
         <entry>%s/length /length() /g</entry>
@@ -46,6 +43,9 @@
         <entry encoding="base64">JzwsJz5zL30vXS9n</entry>
         <entry>silent ! google-chrome-stable &quot;%:p&quot;</entry>
         <entry>%s/menu/xqdw/g</entry>
+        <entry>%s/a_pf_menu/bs_param_xqdw/g</entry>
+        <entry>%s/menu_id/xqdw_code/g</entry>
+        <entry>%s/menuId/xqdwCode/g</entry>
         <entry>%s/Menu/Xqdw/g</entry>
       </history-cmd>
       <history-expr />
@@ -167,6 +167,58 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
+      <file name="/lns/cworkspaces/intelligent_analysis_backend/src/main/java/com/mingyi/project/console/xqdw/mapper/XqdwMapper.xml" timestamp="1592794806433">
+        <mark key="'" line="47" column="0" />
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="95" column="19" />
+        <mark key="." line="95" column="18" />
+        <mark key="^" line="95" column="19" />
+      </file>
+      <file name="/lns/cworkspaces/intelligent_analysis_backend/src/main/java/com/mingyi/project/console/xqdw/service/impl/XqdwServiceImpl.java" timestamp="1592795910812" />
+      <file name="/lns/cworkspaces/intelligent_analysis_backend/docs/接口文档/控制台/菜单管理.md" timestamp="1592790347230">
+        <mark key="'" line="97" column="20" />
+        <mark key="[" line="25" column="12" />
+        <mark key="]" line="25" column="12" />
+        <mark key="." line="25" column="11" />
+        <mark key="^" line="25" column="12" />
+      </file>
+      <file name="/EasyCodeTemplateDebug.vm.ft" timestamp="1592792758962">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$APPLICATION_CONFIG_DIR$/scratches/rest-api_1.http" timestamp="1592755642565">
+        <mark key="'" line="322" column="3" />
+        <mark key="[" line="295" column="13" />
+        <mark key="]" line="295" column="20" />
+        <mark key="." line="295" column="13" />
+        <mark key="^" line="295" column="13" />
+      </file>
+      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/03a0a04a-f457-4d55-af20-a9316286cc80/console.sql" timestamp="1592792639661">
+        <mark key="'" line="56" column="34" />
+        <mark key="[" line="18" column="0" />
+      </file>
+      <file name="/lns/cworkspaces/intelligent_analysis_backend/src/main/java/com/mingyi/project/console/xqdw/service/XqdwService.java" timestamp="1592794203486">
+        <mark key="'" line="42" column="4" />
+        <mark key="[" line="45" column="9" />
+        <mark key="]" line="45" column="11" />
+        <mark key="^" line="45" column="11" />
+        <mark key="." line="45" column="10" />
+      </file>
+      <file name="/lns/cworkspaces/intelligent_analysis_backend/src/main/java/com/mingyi/project/console/xqdw/vo/XqdwVO.java" timestamp="1592791379276">
+        <mark key="[" line="19" column="62" />
+        <mark key="]" line="21" column="27" />
+        <mark key="." line="21" column="26" />
+        <mark key="^" line="21" column="27" />
+      </file>
+      <file name="/EasyCodeTemplate.vm.ft" timestamp="1592792723943">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="/lns/cworkspaces/intelligent_analysis_backend/src/main/java/com/mingyi/project/console/xqdw/controller/XqdwController.java" timestamp="1592796709765">
+        <mark key="'" line="31" column="22" />
+        <mark key="[" line="73" column="7" />
+        <mark key="]" line="73" column="11" />
+        <mark key="^" line="73" column="11" />
+        <mark key="." line="73" column="10" />
+      </file>
       <file name="/lns/cworkspaces/intelligent_analysis_backend/src/main/java/com/mingyi/project/console/classify/controller/ClassifyController.java" timestamp="1592755221198">
         <mark key="'" line="25" column="37" />
         <mark key="[" line="0" column="0" />
@@ -178,45 +230,12 @@
         <mark key="[" line="11" column="0" />
         <mark key="]" line="43" column="30" />
       </file>
-      <file name="/lns/cworkspaces/intelligent_analysis_backend/src/main/java/com/mingyi/project/console/xqdw/mapper/XqdwMapper.java" timestamp="1592791587391">
-        <mark key="'" line="36" column="4" />
-        <mark key="[" line="19" column="22" />
-        <mark key="]" line="19" column="24" />
-        <mark key="^" line="19" column="24" />
-        <mark key="." line="19" column="23" />
-      </file>
-      <file name="/lns/cworkspaces/intelligent_analysis_backend/src/main/java/com/mingyi/project/console/xqdw/service/impl/XqdwServiceImpl.java" timestamp="1592791216449">
-        <mark key="[" line="2" column="29" />
-        <mark key="]" line="4" column="51" />
-        <mark key="^" line="4" column="51" />
-        <mark key="." line="4" column="50" />
-      </file>
-      <file name="/lns/cworkspaces/intelligent_analysis_backend/src/main/java/com/mingyi/project/console/classify/mapper/ClassifyOriginMapper.xml" timestamp="1592753976552">
-        <mark key="'" line="24" column="57" />
+      <file name="/lns/cworkspaces/intelligent_analysis_backend/src/main/java/com/mingyi/project/console/xqdw/mapper/XqdwMapper.java" timestamp="1592794807831">
+        <mark key="'" line="47" column="0" />
         <mark key="[" line="0" column="0" />
-        <mark key="]" line="38" column="5" />
-        <mark key="^" line="38" column="5" />
-        <mark key="." line="38" column="4" />
-      </file>
-      <file name="/lns/cworkspaces/intelligent_analysis_backend/src/main/java/com/mingyi/project/console/classify/mapper/ClassifyOriginMapper.java" timestamp="1592753980219">
-        <mark key="[" line="23" column="15" />
-        <mark key="]" line="18" column="20" />
-        <mark key="^" line="18" column="9" />
-        <mark key="." line="18" column="20" />
-      </file>
-      <file name="/lns/cworkspaces/intelligent_analysis_backend/docs/接口文档/控制台/菜单管理.md" timestamp="1592790347230">
-        <mark key="'" line="97" column="20" />
-        <mark key="[" line="25" column="12" />
-        <mark key="]" line="25" column="12" />
-        <mark key="." line="25" column="11" />
-        <mark key="^" line="25" column="12" />
-      </file>
-      <file name="$APPLICATION_CONFIG_DIR$/scratches/rest-api_1.http" timestamp="1592755642565">
-        <mark key="'" line="322" column="3" />
-        <mark key="[" line="295" column="13" />
-        <mark key="]" line="295" column="20" />
-        <mark key="." line="295" column="13" />
-        <mark key="^" line="295" column="13" />
+        <mark key="]" line="36" column="31" />
+        <mark key="^" line="36" column="31" />
+        <mark key="." line="36" column="30" />
       </file>
       <file name="/lns/cworkspaces/intelligent_analysis_backend/docs/接口文档/控制台/专题分类管理.md" timestamp="1592755416122">
         <mark key="'" line="31" column="0" />
@@ -225,35 +244,19 @@
         <mark key="^" line="157" column="21" />
         <mark key="." line="157" column="20" />
       </file>
-      <file name="/lns/cworkspaces/intelligent_analysis_backend/src/main/java/com/mingyi/project/console/classify/vo/ClassifyVO.java" timestamp="1592754548263">
+      <file name="/lns/cworkspaces/intelligent_analysis_backend/src/main/java/com/mingyi/project/console/menu/service/impl/MenuServiceImpl.java" timestamp="1592794229846">
+        <mark key="'" line="78" column="35" />
         <mark key="[" line="0" column="0" />
-        <mark key="]" line="23" column="35" />
-        <mark key="." line="23" column="34" />
-        <mark key="^" line="23" column="35" />
+        <mark key="]" line="74" column="1" />
+        <mark key="^" line="74" column="1" />
+        <mark key="." line="74" column="0" />
       </file>
-      <file name="/lns/cworkspaces/intelligent_analysis_backend/src/main/java/com/mingyi/project/console/classify/mapper/ClassifyMapper.java" timestamp="1592755144831">
-        <mark key="'" line="26" column="8" />
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="44" column="9" />
-        <mark key="^" line="44" column="9" />
-        <mark key="." line="44" column="8" />
-      </file>
-      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/03a0a04a-f457-4d55-af20-a9316286cc80/console.sql" timestamp="1592791241836">
-        <mark key="'" line="49" column="47" />
-        <mark key="[" line="17" column="39" />
-        <mark key="]" line="17" column="35" />
-        <mark key="^" line="17" column="35" />
-        <mark key="." line="17" column="34" />
-      </file>
-      <file name="/lns/cworkspaces/intelligent_analysis_backend/src/main/java/com/mingyi/project/console/classify/service/impl/ClassifyServiceImpl.java" timestamp="1592754955674">
-        <mark key="'" line="66" column="15" />
-      </file>
-      <file name="/lns/cworkspaces/intelligent_analysis_backend/src/main/java/com/mingyi/project/console/menu/mapper/MenuMapper.xml" timestamp="1592755545191">
+      <file name="/lns/cworkspaces/intelligent_analysis_backend/src/main/java/com/mingyi/project/console/menu/mapper/MenuMapper.xml" timestamp="1592793271537">
         <mark key="'" line="90" column="12" />
-        <mark key="[" line="7" column="8" />
-        <mark key="]" line="7" column="12" />
-        <mark key="." line="7" column="11" />
-        <mark key="^" line="7" column="12" />
+        <mark key="[" line="18" column="47" />
+        <mark key="]" line="18" column="49" />
+        <mark key="." line="18" column="48" />
+        <mark key="^" line="18" column="49" />
       </file>
       <file name="/lns/cworkspaces/intelligent_analysis_backend/src/main/java/com/mingyi/project/console/classify/mapper/ClassifyMapper.xml" timestamp="1592755153028">
         <mark key="[" line="0" column="0" />
@@ -261,58 +264,24 @@
         <mark key="." line="45" column="4" />
         <mark key="^" line="45" column="5" />
       </file>
-      <file name="/lns/cworkspaces/intelligent_analysis_backend/src/main/java/com/mingyi/project/console/classify/po/ClassifyPO.java" timestamp="1592754538663">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="12" column="1" />
-        <mark key="^" line="12" column="1" />
-        <mark key="." line="12" column="0" />
-      </file>
       <file name="/lns/cworkspaces/intelligent_analysis_backend/src/main/java/com/mingyi/project/console/xqdw/po/XqdwPO.java" timestamp="1592791308794">
         <mark key="[" line="19" column="62" />
         <mark key="]" line="19" column="62" />
         <mark key="." line="3" column="0" />
       </file>
-      <file name="/lns/cworkspaces/intelligent_analysis_backend/src/main/java/com/mingyi/project/console/menu/controller/MenuController.java" timestamp="1592755085952">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="66" column="1" />
-        <mark key="^" line="66" column="1" />
-        <mark key="." line="66" column="0" />
+      <file name="/lns/cworkspaces/intelligent_analysis_backend/src/main/java/com/mingyi/project/console/menu/controller/MenuController.java" timestamp="1592795926353">
+        <mark key="'" line="62" column="6" />
+        <mark key="[" line="22" column="0" />
+        <mark key="]" line="68" column="5" />
+        <mark key="^" line="65" column="1" />
+        <mark key="." line="65" column="0" />
       </file>
-      <file name="/lns/cworkspaces/intelligent_analysis_backend/src/main/java/com/mingyi/project/console/xqdw/vo/XqdwVO.java" timestamp="1592791379276">
-        <mark key="[" line="19" column="62" />
-        <mark key="]" line="21" column="27" />
-        <mark key="." line="21" column="26" />
-        <mark key="^" line="21" column="27" />
-      </file>
-      <file name="/vdata/apps/maven/org/springframework/spring-core/4.1.1.RELEASE/spring-core-4.1.1.RELEASE-sources.jar!/org/springframework/util/CollectionUtils.java" timestamp="1592754269963">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="91" column="23" />
-        <mark key="^" line="91" column="23" />
-        <mark key="." line="91" column="22" />
+      <file name="/lns/cworkspaces/intelligent_analysis_backend/src/main/java/com/mingyi/project/console/menu/service/MenuService.java" timestamp="1592794000871">
+        <mark key="[" line="12" column="0" />
+        <mark key="]" line="45" column="34" />
       </file>
     </filemarks>
     <jumps>
-      <jump line="476" column="29" filename="/lns/cworkspaces/intelligent_analysis_backend/pom.xml" />
-      <jump line="477" column="18" filename="/lns/cworkspaces/intelligent_analysis_backend/pom.xml" />
-      <jump line="478" column="17" filename="/lns/cworkspaces/intelligent_analysis_backend/pom.xml" />
-      <jump line="481" column="29" filename="/lns/cworkspaces/intelligent_analysis_backend/pom.xml" />
-      <jump line="8" column="10" filename="/lns/cworkspaces/intelligent_analysis_backend/docs/接口文档/控制台/菜单管理.md" />
-      <jump line="50" column="0" filename="/lns/cworkspaces/intelligent_analysis_backend/src/main/java/com/mingyi/project/console/menu/controller/MenuController.java" />
-      <jump line="27" column="0" filename="/lns/cworkspaces/intelligent_analysis_backend/docs/接口文档/控制台/菜单管理.md" />
-      <jump line="58" column="49" filename="$APPLICATION_CONFIG_DIR$/consoles/db/03a0a04a-f457-4d55-af20-a9316286cc80/console.sql" />
-      <jump line="15" column="0" filename="$APPLICATION_CONFIG_DIR$/consoles/db/03a0a04a-f457-4d55-af20-a9316286cc80/console.sql" />
-      <jump line="60" column="0" filename="$APPLICATION_CONFIG_DIR$/consoles/db/03a0a04a-f457-4d55-af20-a9316286cc80/console.sql" />
-      <jump line="103" column="0" filename="/lns/cworkspaces/intelligent_analysis_backend/docs/接口文档/控制台/菜单管理.md" />
-      <jump line="104" column="0" filename="/lns/cworkspaces/intelligent_analysis_backend/docs/接口文档/控制台/菜单管理.md" />
-      <jump line="105" column="0" filename="/lns/cworkspaces/intelligent_analysis_backend/docs/接口文档/控制台/菜单管理.md" />
-      <jump line="106" column="0" filename="/lns/cworkspaces/intelligent_analysis_backend/docs/接口文档/控制台/菜单管理.md" />
-      <jump line="107" column="0" filename="/lns/cworkspaces/intelligent_analysis_backend/docs/接口文档/控制台/菜单管理.md" />
-      <jump line="108" column="0" filename="/lns/cworkspaces/intelligent_analysis_backend/docs/接口文档/控制台/菜单管理.md" />
-      <jump line="111" column="0" filename="/lns/cworkspaces/intelligent_analysis_backend/docs/接口文档/控制台/菜单管理.md" />
-      <jump line="112" column="0" filename="/lns/cworkspaces/intelligent_analysis_backend/docs/接口文档/控制台/菜单管理.md" />
-      <jump line="113" column="0" filename="/lns/cworkspaces/intelligent_analysis_backend/docs/接口文档/控制台/菜单管理.md" />
-      <jump line="114" column="0" filename="/lns/cworkspaces/intelligent_analysis_backend/docs/接口文档/控制台/菜单管理.md" />
-      <jump line="118" column="0" filename="/lns/cworkspaces/intelligent_analysis_backend/docs/接口文档/控制台/菜单管理.md" />
       <jump line="119" column="0" filename="/lns/cworkspaces/intelligent_analysis_backend/docs/接口文档/控制台/菜单管理.md" />
       <jump line="120" column="0" filename="/lns/cworkspaces/intelligent_analysis_backend/docs/接口文档/控制台/菜单管理.md" />
       <jump line="121" column="0" filename="/lns/cworkspaces/intelligent_analysis_backend/docs/接口文档/控制台/菜单管理.md" />
@@ -392,6 +361,27 @@
       <jump line="49" column="47" filename="$APPLICATION_CONFIG_DIR$/consoles/db/03a0a04a-f457-4d55-af20-a9316286cc80/console.sql" />
       <jump line="33" column="0" filename="/lns/cworkspaces/intelligent_analysis_backend/src/main/java/com/mingyi/project/console/xqdw/mapper/XqdwMapper.java" />
       <jump line="32" column="4" filename="/lns/cworkspaces/intelligent_analysis_backend/src/main/java/com/mingyi/project/console/xqdw/mapper/XqdwMapper.java" />
+      <jump line="14" column="16" filename="/lns/cworkspaces/intelligent_analysis_backend/src/main/java/com/mingyi/project/console/xqdw/mapper/XqdwMapper.xml" />
+      <jump line="78" column="8" filename="/lns/cworkspaces/intelligent_analysis_backend/src/main/java/com/mingyi/project/console/xqdw/mapper/XqdwMapper.xml" />
+      <jump line="16" column="0" filename="/lns/cworkspaces/intelligent_analysis_backend/src/main/java/com/mingyi/project/console/xqdw/mapper/XqdwMapper.xml" />
+      <jump line="85" column="16" filename="/lns/cworkspaces/intelligent_analysis_backend/src/main/java/com/mingyi/project/console/xqdw/mapper/XqdwMapper.xml" />
+      <jump line="56" column="34" filename="$APPLICATION_CONFIG_DIR$/consoles/db/03a0a04a-f457-4d55-af20-a9316286cc80/console.sql" />
+      <jump line="47" column="0" filename="/lns/cworkspaces/intelligent_analysis_backend/src/main/java/com/mingyi/project/console/xqdw/mapper/XqdwMapper.java" />
+      <jump line="105" column="12" filename="/lns/cworkspaces/intelligent_analysis_backend/src/main/java/com/mingyi/project/console/xqdw/mapper/XqdwMapper.xml" />
+      <jump line="7" column="0" filename="/lns/cworkspaces/intelligent_analysis_backend/src/main/java/com/mingyi/project/console/xqdw/mapper/XqdwMapper.xml" />
+      <jump line="47" column="0" filename="/lns/cworkspaces/intelligent_analysis_backend/src/main/java/com/mingyi/project/console/xqdw/mapper/XqdwMapper.xml" />
+      <jump line="8" column="14" filename="/lns/cworkspaces/intelligent_analysis_backend/src/main/java/com/mingyi/project/console/xqdw/service/XqdwService.java" />
+      <jump line="37" column="4" filename="/lns/cworkspaces/intelligent_analysis_backend/src/main/java/com/mingyi/project/console/xqdw/service/XqdwService.java" />
+      <jump line="78" column="35" filename="/lns/cworkspaces/intelligent_analysis_backend/src/main/java/com/mingyi/project/console/menu/service/impl/MenuServiceImpl.java" />
+      <jump line="9" column="7" filename="/lns/cworkspaces/intelligent_analysis_backend/src/main/java/com/mingyi/project/console/xqdw/service/impl/XqdwServiceImpl.java" />
+      <jump line="80" column="3" filename="/lns/cworkspaces/intelligent_analysis_backend/src/main/java/com/mingyi/project/console/xqdw/service/impl/XqdwServiceImpl.java" />
+      <jump line="23" column="12" filename="/lns/cworkspaces/intelligent_analysis_backend/src/main/java/com/mingyi/project/console/xqdw/service/impl/XqdwServiceImpl.java" />
+      <jump line="76" column="12" filename="/lns/cworkspaces/intelligent_analysis_backend/src/main/java/com/mingyi/project/console/xqdw/service/impl/XqdwServiceImpl.java" />
+      <jump line="65" column="0" filename="/lns/cworkspaces/intelligent_analysis_backend/src/main/java/com/mingyi/project/console/xqdw/service/impl/XqdwServiceImpl.java" />
+      <jump line="63" column="6" filename="/lns/cworkspaces/intelligent_analysis_backend/src/main/java/com/mingyi/project/console/menu/controller/MenuController.java" />
+      <jump line="7" column="30" filename="/lns/cworkspaces/intelligent_analysis_backend/src/main/java/com/mingyi/project/console/xqdw/controller/XqdwController.java" />
+      <jump line="49" column="8" filename="/lns/cworkspaces/intelligent_analysis_backend/src/main/java/com/mingyi/project/console/xqdw/controller/XqdwController.java" />
+      <jump line="13" column="22" filename="/lns/cworkspaces/intelligent_analysis_backend/src/main/java/com/mingyi/project/console/xqdw/controller/XqdwController.java" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
@@ -400,43 +390,43 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name="*" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAqIEByZXR1cm4K</text>
       </register>
       <register name="-" type="4">
-        <text>别</text>
+        <text>辖区单位编号重复！</text>
       </register>
       <register name="/" type="4">
         <text>Menu</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIC8qKgogICAgICog5p+l6K+i5qCR57uT5p6E5omA6ZyAbGlzdAogICAgICogQHJldHVybiBtYXDpm4blkIgKICAgICAqLwogICAgTGlzdDxNYXA8U3RyaW5nLCBPYmplY3Q+PiBxdWVyeUZvclRyZWUoKTsKCiAgICAvKioKICAgICAqIOiOt+WPluS4i+S4gOWtkOiKgueCueS/oeaBrwogICAgICogQHBhcmFtIHBhcmVudElkIOeItue6p+iKgueCuee8luWPtwogICAgICogQHJldHVybiDov5Tlm57lrZDoioLngrnkv6Hmga9NYXAKICAgICAqLwogICAgTWFwPFN0cmluZywgT2JqZWN0PiBnZXROZXh0Q2hpbGRJbmZvKExvbmcgcGFyZW50SWQpOwoKICAgIC8qKgogICAgICog5o+S5YWlCiAgICAgKiBAcGFyYW0gcG8g5pWw5o2u5bqT5oyB5LmF5YyW5a+56LGhCiAgICAgKiBAcmV0dXJuIOW9seWTjeiusOW9leaVsOmHjwogICAgICovCiAgICBpbnQgaW5zZXJ0KE1lbnVQTyBwbyk7CgogICAgLyoqCiAgICAgKiDliKDpmaQKICAgICAqIEBwYXJhbSB2byDlj4LmlbDlr7nosaEKICAgICAqIEByZXR1cm4g5b2x5ZON6K6w5b2V5pWw6YePCiAgICAgKi8KICAgIGludCBkZWxldGUoQFBhcmFtKCJtZW51SWRMaXN0IikgTGlzdDxMb25nPiBtZW51SWRMaXN0LCBAUGFyYW0oIm1lbnVJZCIpIExvbmcgbWVudUlkKTsKCiAgICAvKioKICAgICAqIOabtOaWsAogICAgICogQHBhcmFtIHZvIOWPguaVsOWvueixoQogICAgICogQHJldHVybiDlvbHlk43orrDlvZXmlbDph48KICAgICAqLwogICAgaW50IHVwZGF0ZUJ5SWQoTWVudVZPIHZvKTsK</text>
+        <text encoding="base64">ICAgIEBBdXRvd2lyZWQKICAgIHByaXZhdGUgTWVudVNlcnZpY2Ugc2VydmljZTsKCiAgICAvKioKICAgICAqIOafpeivouiPnOWNleagkee7k+aehAogICAgICovCiAgICBAUmVxdWVzdE1hcHBpbmcoInF1ZXJ5TWVudVRyZWUiKQogICAgcHVibGljIE9iamVjdCBxdWVyeU1lbnVUcmVlKCl7CiAgICAgICAgcmV0dXJuIENhbGxiYWNrSGFuZGxlci5pbml0KCgpIC0+IHNlcnZpY2UucXVlcnlNZW51VHJlZSgpKS5jYWxsKCk7CiAgICB9CgogICAgLyoqCiAgICAgKiDmlrDlop4KICAgICAqLwogICAgQENoZWNrKHsicGFyZW50SWQiLCAic3RhdHVzIn0pCiAgICBAUmVxdWVzdE1hcHBpbmcoImFkZCIpCiAgICBwdWJsaWMgT2JqZWN0IGFkZChNZW51Vk8gdm8pewogICAgICAgIHJldHVybiBDYWxsYmFja0hhbmRsZXIuaW5pdCgoKSAtPiBzZXJ2aWNlLmluc2VydCh2bykpLmNhbGwoKTsKICAgIH0KCiAgICAvKioKICAgICAqIOWIoOmZpOW9k+WJjeiKgueCueS7peWPiuWtkOiKgueCuQogICAgICovCiAgICBAQ2hlY2soIm1lbnVJZCIpCiAgICBAUmVxdWVzdE1hcHBpbmcoImRlbGV0ZSIpCiAgICBwdWJsaWMgT2JqZWN0IGRlbGV0ZShNZW51Vk8gdm8pewogICAgICAgIHJldHVybiBDYWxsYmFja0hhbmRsZXIuaW5pdCgoKSAtPiBzZXJ2aWNlLmRlbGV0ZUJ5SWQodm8pKS5jYWxsKCk7CiAgICB9CgogICAgLyoqCiAgICAgKiDmm7TmlrAKICAgICAqLwogICAgQENoZWNrKCJtZW51SWQiKQogICAgQFJlcXVlc3RNYXBwaW5nKCJ1cGRhdGUiKQogICAgcHVibGljIE9iamVjdCB1cGRhdGUoTWVudVZPIHZvKXsKICAgICAgICByZXR1cm4gQ2FsbGJhY2tIYW5kbGVyLmluaXQoKCkgLT4gc2VydmljZS51cGRhdGUodm8pKS5jYWxsKCk7CiAgICB9CgogICAgLyoqCiAgICAgKiDmjpLluo8KICAgICAqLwogICAgQFJlcXVlc3RNYXBwaW5nKCJzb3J0IikKICAgIHB1YmxpYyBPYmplY3Qgc29ydChTdHJpbmcganNvblBhcmFtKXsKICAgICAgICBMaXN0PE1lbnVWTz4gdm9MaXN0ID0gSlNPTi5wYXJzZUFycmF5KGpzb25QYXJhbSwgTWVudVZPLmNsYXNzKTsKICAgICAgICBBc3NlcnQuaXNUcnVlKCFDb2xsZWN0aW9uVXRpbHMuaXNFbXB0eSh2b0xpc3QpLCAidm9MaXN05Y+C5pWw5Li656m6Iik7CiAgICAgICAgcmV0dXJuIENhbGxiYWNrSGFuZGxlci5pbml0KCgpIC0+IHNlcnZpY2Uuc29ydCh2b0xpc3QpKS5jYWxsKCk7CiAgICB9Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAqIEByZXR1cm4K</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIHByaXZhdGUgU3RyaW5nIGlkOyAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIC8vIOS4u+mUrgo=</text>
+        <text encoding="base64">ICAgICAqIEBwYXJhbSB2bwo=</text>
       </register>
       <register name="3" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgbWFwLnB1dCgiIikK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICByZXR1cm4gbnVsbDsK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Kirms6jmhI8qKgo=</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Q29udGVudC1UeXBlOiBhcHBsaWNhdGlvbi9qc29uCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICB7ImNsYXNzaWZ5SWQiOiA2Njc5Mjk5Mjk2ODI0NzkxMDQwLCAicGFyZW50SWQiOiA2Njc5Mjk5MTQzOTM0MDIxNjMyfSwK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICB7ImNsYXNzaWZ5SWQiOiA2Njc5Mjk5MTQzOTM0MDIxNjMyLCAicGFyZW50SWQiOiA2Njc5MjgxMzUxMTU1Mzg4NDE2fSwK</text>
+        <text encoding="base64">ICAgICAgICB2by5zZXRMZWFmKDEpOwo=</text>
       </register>
       <register name=":" type="4">
         <text>%s/Menu/Xqdw/g</text>
