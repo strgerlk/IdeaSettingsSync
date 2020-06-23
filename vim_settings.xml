@@ -167,6 +167,12 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
+      <file name="/lns/workspaces/fw4j/fw4j-explore/pom.xml" timestamp="1592903751533">
+        <mark key="[" line="8" column="13" />
+        <mark key="]" line="9" column="4" />
+        <mark key="^" line="9" column="4" />
+        <mark key="." line="9" column="3" />
+      </file>
       <file name="$APPLICATION_CONFIG_DIR$/scratches/rest-api_1.http" timestamp="1592900409047">
         <mark key="'" line="377" column="45" />
         <mark key="[" line="0" column="0" />
@@ -257,12 +263,6 @@
         <mark key="]" line="7" column="87" />
         <mark key="^" line="7" column="87" />
         <mark key="." line="7" column="86" />
-      </file>
-      <file name="/lns/cworkspaces/intelligent_analysis_backend/src/main/java/com/mingyi/project/console/caserevert/mapper/CaseRevertMapper.java" timestamp="1592894586319">
-        <mark key="[" line="22" column="28" />
-        <mark key="]" line="22" column="39" />
-        <mark key="^" line="22" column="39" />
-        <mark key="." line="22" column="38" />
       </file>
       <file name="/lns/cworkspaces/intelligent_analysis_backend/src/main/java/com/mingyi/project/console/classify/mapper/ClassifyMapper.xml" timestamp="1592900408723">
         <mark key="'" line="13" column="68" />
