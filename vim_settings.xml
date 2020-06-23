@@ -174,6 +174,13 @@
         <mark key="^" line="329" column="45" />
         <mark key="." line="329" column="44" />
       </file>
+      <file name="/lns/cworkspaces/intelligent_analysis_backend/pom.xml" timestamp="1592901882490">
+        <mark key="'" line="78" column="0" />
+        <mark key="[" line="39" column="13" />
+        <mark key="]" line="39" column="6" />
+        <mark key="." line="39" column="5" />
+        <mark key="^" line="39" column="6" />
+      </file>
       <file name="/lns/cworkspaces/intelligent_analysis_backend/src/main/java/com/mingyi/project/console/classify/vo/ClassifyVO.java" timestamp="1592900408334">
         <mark key="'" line="22" column="0" />
         <mark key="[" line="0" column="0" />
@@ -195,11 +202,12 @@
         <mark key="." line="33" column="28" />
         <mark key="^" line="33" column="29" />
       </file>
-      <file name="/lns/workspaces/fw4j/pom.xml" timestamp="1592901075267">
-        <mark key="[" line="34" column="24" />
-        <mark key="]" line="36" column="22" />
-        <mark key="." line="36" column="21" />
-        <mark key="^" line="36" column="22" />
+      <file name="/lns/workspaces/fw4j/pom.xml" timestamp="1592901845942">
+        <mark key="'" line="66" column="0" />
+        <mark key="[" line="9" column="0" />
+        <mark key="]" line="9" column="37" />
+        <mark key="." line="20" column="4" />
+        <mark key="^" line="20" column="5" />
       </file>
       <file name="/lns/cworkspaces/intelligent_analysis_backend/src/main/java/com/mingyi/project/console/classify/controller/ClassifyController.java" timestamp="1592900406808">
         <mark key="'" line="34" column="24" />
@@ -232,9 +240,6 @@
         <mark key="[" line="42" column="0" />
         <mark key="]" line="42" column="0" />
         <mark key="." line="42" column="0" />
-      </file>
-      <file name="/dummy.sql" timestamp="1592830049040">
-        <mark key="[" line="0" column="0" />
       </file>
       <file name="/lns/cworkspaces/intelligent_analysis_backend/docs/接口文档/控制台/警情回收.md" timestamp="1592894461135">
         <mark key="'" line="140" column="22" />
@@ -297,11 +302,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="111" column="4" filename="/lns/cworkspaces/intelligent_analysis_backend/src/main/java/com/mingyi/project/console/classify/vo/ClassifyVO.java" />
-      <jump line="114" column="0" filename="/lns/cworkspaces/intelligent_analysis_backend/src/main/java/com/mingyi/project/console/classify/vo/ClassifyVO.java" />
-      <jump line="115" column="4" filename="/lns/cworkspaces/intelligent_analysis_backend/src/main/java/com/mingyi/project/console/classify/vo/ClassifyVO.java" />
-      <jump line="118" column="0" filename="/lns/cworkspaces/intelligent_analysis_backend/src/main/java/com/mingyi/project/console/classify/vo/ClassifyVO.java" />
-      <jump line="119" column="4" filename="/lns/cworkspaces/intelligent_analysis_backend/src/main/java/com/mingyi/project/console/classify/vo/ClassifyVO.java" />
       <jump line="122" column="0" filename="/lns/cworkspaces/intelligent_analysis_backend/src/main/java/com/mingyi/project/console/classify/vo/ClassifyVO.java" />
       <jump line="123" column="4" filename="/lns/cworkspaces/intelligent_analysis_backend/src/main/java/com/mingyi/project/console/classify/vo/ClassifyVO.java" />
       <jump line="126" column="0" filename="/lns/cworkspaces/intelligent_analysis_backend/src/main/java/com/mingyi/project/console/classify/vo/ClassifyVO.java" />
@@ -397,6 +397,11 @@
       <jump line="13" column="68" filename="/lns/cworkspaces/intelligent_analysis_backend/src/main/java/com/mingyi/project/console/classify/mapper/ClassifyMapper.xml" />
       <jump line="99" column="54" filename="$APPLICATION_CONFIG_DIR$/consoles/db/03a0a04a-f457-4d55-af20-a9316286cc80/console.sql" />
       <jump line="102" column="0" filename="$APPLICATION_CONFIG_DIR$/consoles/db/03a0a04a-f457-4d55-af20-a9316286cc80/console.sql" />
+      <jump line="1" column="0" filename="/lns/cworkspaces/intelligent_analysis_backend/pom.xml" />
+      <jump line="549" column="0" filename="/lns/cworkspaces/intelligent_analysis_backend/pom.xml" />
+      <jump line="77" column="0" filename="/lns/cworkspaces/intelligent_analysis_backend/pom.xml" />
+      <jump line="41" column="21" filename="/lns/workspaces/fw4j/pom.xml" />
+      <jump line="62" column="0" filename="/lns/workspaces/fw4j/pom.xml" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
@@ -404,8 +409,8 @@
       <register name="&quot;" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="*" type="2">
-        <text encoding="base64">ICAgICAgICAgICAK</text>
+      <register name="*" type="8">
+        <text encoding="base64">ICAKICAKICAKICAKICA=</text>
       </register>
       <register name="-" type="4">
         <text encoding="base64">IHdoZXJlIEJKRlNNQyA=</text>
@@ -414,34 +419,34 @@
         <text>FJAJFL</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICA8ZGVwZW5kZW5jeT4KICAgICAgICAgICAgPGdyb3VwSWQ+Y29tLnZicnVnLmZ3NGo8L2dyb3VwSWQ+CiAgICAgICAgICAgIDxhcnRpZmFjdElkPmZ3NGotY29tbW9uPC9hcnRpZmFjdElkPgogICAgICAgIDwvZGVwZW5kZW5jeT4K</text>
+        <text encoding="base64">ICAgIDx2ZXJzaW9uPjEuMC4wLVNOQVBTSE9UPC92ZXJzaW9uPgo=</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAK</text>
+      <register name="1" type="8">
+        <text encoding="base64">ICAKICAKICAKICAKICA=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgPHZlcnNpb24+JHtwcm9qZWN0LnZlcnNpb259PC92ZXJzaW9uPgo=</text>
       </register>
-      <register name="3" type="8">
-        <text encoding="base64">IAogCiAKIAogCiAKIAogCiAKIAogCiAKIAog</text>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgIDxkZXBlbmRlbmN5Pgo8Z3JvdXBJZD5jb20udmJydWcuPC9ncm91cElkPgo8YXJ0aWZhY3RJZD48L2FydGlmYWN0SWQ+CjwvZGVwZW5kZW5jeT4K</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAK</text>
+        <text encoding="base64">ICAgIDwhLS08cmVwb3NpdG9yeT4tLT4KICAgICAgPCEtLTxpZD5wc1JlbGVhc2U8L2lkPi0tPgogICAgICA8IS0tPG5hbWU+cHNSZWxlYXNlIFJlcG9zaXRvcnk8L25hbWU+LS0+CiAgICAgIDwhLS08dXJsPmh0dHA6Ly8xOTIuMTY4LjE4MS4xMDk6ODA4MS9uZXh1cy9jb250ZW50L3JlcG9zaXRvcmllcy9wc1JlbGVhc2UvPC91cmw+LS0+CiAgIDwhLS08L3JlcG9zaXRvcnk+LS0+Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">cmV2ZXJ0U291cmNlPTEmY2FzZU5vPTIwMjAwNTA4MjM1MzE3MTc2MjI2NzY4NCZyZW1hcms9TEsmbmV3Q2xhc3NpZnlDb2RlPTEwMDAwMQo=</text>
+        <text encoding="base64">ICAgIDwhLS0KICAgIAogICAgPGRlcGVuZGVuY3k+CiAgICAgIDxncm91cElkPmNvbS51bHRyYXBvd2VyLmxpY2Vuc2U8L2dyb3VwSWQ+CiAgICAgIDxhcnRpZmFjdElkPkxpY2Vuc2VDbGllbnQ8L2FydGlmYWN0SWQ+CiAgICAgIDx2ZXJzaW9uPjEuMC4wPC92ZXJzaW9uPgogICAgPC9kZXBlbmRlbmN5PgogICAgLS0+Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAqIEBwYXJhbSBpZHMKICAgICAqIEByZXR1cm4K</text>
+        <text encoding="base64">ICAgICAgICAgICAK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICB3aGVyZSAK</text>
+        <text encoding="base64">ICAgICAgICAgICAK</text>
       </register>
-      <register name="9" type="2">
-        <text encoding="base64">ICAgIAogICAgICAgIAogICAgICAgIAo=</text>
+      <register name="9" type="8">
+        <text encoding="base64">IAogCiAKIAogCiAKIAogCiAKIAogCiAKIAog</text>
       </register>
       <register name=":" type="4">
         <text>%s/FJAJFL/JQLB/g</text>
