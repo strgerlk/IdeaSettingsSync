@@ -167,6 +167,12 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
+      <file name="/File Header.txt.ft" timestamp="1592983259568">
+        <mark key="[" line="4" column="13" />
+        <mark key="]" line="1" column="0" />
+        <mark key="^" line="0" column="0" />
+        <mark key="." line="1" column="0" />
+      </file>
       <file name="/lns/workspaces/fw4j/fw4j-common/src/main/java/com/vbrug/fw4j/common/thread/FixedThreadPool.java" timestamp="1592913527245">
         <mark key="[" line="10" column="23" />
         <mark key="]" line="10" column="23" />
@@ -208,11 +214,12 @@
         <mark key="." line="13" column="51" />
         <mark key="^" line="13" column="52" />
       </file>
-      <file name="/lns/workspaces/fw4j/fw4j-common/src/main/java/com/vbrug/fw4j/common/util/ObjectUtils.java" timestamp="1592981024282">
-        <mark key="[" line="14" column="12" />
-        <mark key="]" line="14" column="12" />
-        <mark key="^" line="14" column="12" />
-        <mark key="." line="14" column="11" />
+      <file name="/lns/workspaces/fw4j/fw4j-common/src/main/java/com/vbrug/fw4j/common/util/ObjectUtils.java" timestamp="1592982815316">
+        <mark key="'" line="53" column="0" />
+        <mark key="[" line="12" column="12" />
+        <mark key="]" line="12" column="12" />
+        <mark key="^" line="12" column="12" />
+        <mark key="." line="12" column="11" />
       </file>
       <file name="/lns/workspaces/fw4j/pom.xml" timestamp="1592966945355">
         <mark key="'" line="89" column="0" />
@@ -227,9 +234,6 @@
         <mark key="^" line="4" column="4" />
         <mark key="." line="4" column="3" />
       </file>
-      <file name="/console" timestamp="1592902790755">
-        <mark key="[" line="0" column="0" />
-      </file>
       <file name="/opt/jdk1.8.0_231/src.zip!/java/util/stream/Stream.java" timestamp="1592979825686">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="874" column="27" />
@@ -241,6 +245,9 @@
         <mark key="]" line="2" column="14" />
         <mark key="^" line="2" column="14" />
         <mark key="." line="2" column="13" />
+      </file>
+      <file name="/HTML File.txt.ft" timestamp="1592983248905">
+        <mark key="[" line="0" column="0" />
       </file>
       <file name="/lns/workspaces/fw4j/fw4j-test/pom.xml" timestamp="1592905331306">
         <mark key="[" line="8" column="13" />
@@ -255,23 +262,20 @@
         <mark key="^" line="49" column="18" />
         <mark key="." line="49" column="17" />
       </file>
-      <file name="/lns/workspaces/fw4j/fw4j-web/src/main/java/SpringBoot.java" timestamp="1592902702476">
-        <mark key="[" line="5" column="0" />
-        <mark key="]" line="5" column="0" />
-        <mark key="." line="5" column="0" />
-      </file>
-      <file name="/vdata/workspaces/dataroute/src/main/resources/application-dev.yml" timestamp="1592902898935">
-        <mark key="'" line="19" column="0" />
-        <mark key="[" line="18" column="36" />
-        <mark key="]" line="18" column="36" />
-        <mark key="^" line="18" column="36" />
-        <mark key="." line="18" column="35" />
+      <file name="/vdata/apps/maven/ch/qos/logback/logback-classic/1.2.3/logback-classic-1.2.3-sources.jar!/ch/qos/logback/classic/db/DBHelper.java" timestamp="1592982331598">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="27" column="23" />
+        <mark key="^" line="27" column="23" />
+        <mark key="." line="27" column="22" />
       </file>
       <file name="/lns/workspaces/fw4j/fw4j-web/pom.xml" timestamp="1592903047646">
         <mark key="[" line="14" column="17" />
         <mark key="]" line="14" column="20" />
         <mark key="^" line="14" column="20" />
         <mark key="." line="14" column="19" />
+      </file>
+      <file name="/Class.txt.ft" timestamp="1592982966823">
+        <mark key="[" line="0" column="0" />
       </file>
       <file name="$APPLICATION_CONFIG_DIR$/consoles/db/e28fa94b-e855-4133-91c0-76216abe406c/console.sql" timestamp="1592969643740">
         <mark key="'" line="238" column="0" />
@@ -281,7 +285,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="99" column="0" filename="/lns/cworkspaces/intelligent_analysis_backend/src/main/java/com/mingyi/project/console/classify/po/ClassifyPO.java" />
       <jump line="100" column="4" filename="/lns/cworkspaces/intelligent_analysis_backend/src/main/java/com/mingyi/project/console/classify/po/ClassifyPO.java" />
       <jump line="103" column="0" filename="/lns/cworkspaces/intelligent_analysis_backend/src/main/java/com/mingyi/project/console/classify/po/ClassifyPO.java" />
       <jump line="104" column="4" filename="/lns/cworkspaces/intelligent_analysis_backend/src/main/java/com/mingyi/project/console/classify/po/ClassifyPO.java" />
@@ -381,6 +384,7 @@
       <jump line="451" column="20" filename="/lns/cworkspaces/intelligent_analysis_backend/pom.xml" />
       <jump line="18" column="0" filename="$APPLICATION_CONFIG_DIR$/consoles/db/03a0a04a-f457-4d55-af20-a9316286cc80/console.sql" />
       <jump line="13" column="51" filename="$APPLICATION_CONFIG_DIR$/consoles/db/03a0a04a-f457-4d55-af20-a9316286cc80/console.sql" />
+      <jump line="55" column="0" filename="/lns/workspaces/fw4j/fw4j-common/src/main/java/com/vbrug/fw4j/common/util/ObjectUtils.java" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
@@ -389,7 +393,7 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name="*" type="2">
-        <text encoding="base64">ICAgICAgICByZXR1cm4gU3RyZWFtLm9mKG9ianMpLmFueU1hdGNoKE9iamVjdHM6OmlzTnVsbCk7Cg==</text>
+        <text encoding="base64">ICogPGVtPmNvbXBvc2VkIGFubm90YXRpb25zPC9lbT4gd2l0aCBhdHRyaWJ1dGUgb3ZlcnJpZGVzLgo=</text>
       </register>
       <register name="-" type="4">
         <text encoding="base64">IA==</text>
@@ -401,31 +405,31 @@
         <text encoding="base64">ICAgICAgICByZXR1cm4gT2JqZWN0VXRpbHMuaXNOb3RFbXB0eShvYmpzKTsK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICByZXR1cm4gU3RyZWFtLm9mKG9ianMpLmFueU1hdGNoKE9iamVjdHM6OmlzTnVsbCk7Cg==</text>
+        <text encoding="base64">ICogPGVtPmNvbXBvc2VkIGFubm90YXRpb25zPC9lbT4gd2l0aCBhdHRyaWJ1dGUgb3ZlcnJpZGVzLgo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAqIOWIpOaWreWvueixoembhuWQiOaYr+WQpuWtmOWcqOS4uuepuueahAo=</text>
+        <text encoding="base64">ICogPHA+VGhpcyBhbm5vdGF0aW9uIG1heSBiZSB1c2VkIGFzIGEgPGVtPm1ldGEtYW5ub3RhdGlvbjwvZW0+IHRvIGNyZWF0ZSBjdXN0b20K</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAqIEByZXR1cm4K</text>
+        <text encoding="base64">ICoK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAqIEBwYXJhbSBvYmpzCg==</text>
+        <text encoding="base64">ICogR3JvdXAgYW5ub3RhdGlvbiBmb3IgbXVsdGlwbGUgY2FjaGUgYW5ub3RhdGlvbnMgKG9mIGRpZmZlcmVudCBvciB0aGUgc2FtZSB0eXBlKS4K</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAqIEBwYXJhbSBvYmoKICAgICAqIEByZXR1cm4K</text>
+        <text encoding="base64">ICAgICAgICByZXR1cm4gU3RyZWFtLm9mKG9ianMpLmFueU1hdGNoKE9iamVjdHM6OmlzTnVsbCk7Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAqIEBwYXJhbSBvYmogCiAgICAgKiBAcmV0dXJuCg==</text>
+        <text encoding="base64">ICAgICAqIOWIpOaWreWvueixoembhuWQiOaYr+WQpuWtmOWcqOS4uuepuueahAo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAqIEByZXR1cm4K</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAqIEBwYXJhbSBvYmpzCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAqIEBwYXJhbSBvYmoKICAgICAqIEByZXR1cm4K</text>
       </register>
       <register name=":" type="4">
         <text>%s/FJAJFL/JQLB/g</text>
