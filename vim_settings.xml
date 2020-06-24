@@ -218,6 +218,12 @@
       <file name="/console" timestamp="1592902790755">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="/lns/workspaces/fw4j/fw4j-common/src/main/java/com/vbrug/fw4j/common/util/Assert.java" timestamp="1592970935951">
+        <mark key="[" line="2" column="14" />
+        <mark key="]" line="2" column="14" />
+        <mark key="^" line="2" column="14" />
+        <mark key="." line="2" column="13" />
+      </file>
       <file name="/lns/cworkspaces/intelligent_analysis_backend/src/main/java/com/mingyi/project/console/classify/mapper/ClassifyMapper.java" timestamp="1592900410175">
         <mark key="'" line="26" column="8" />
         <mark key="[" line="0" column="0" />
@@ -251,13 +257,6 @@
         <mark key="]" line="7" column="87" />
         <mark key="^" line="7" column="87" />
         <mark key="." line="7" column="86" />
-      </file>
-      <file name="/lns/cworkspaces/intelligent_analysis_backend/src/main/java/com/mingyi/project/console/classify/mapper/ClassifyMapper.xml" timestamp="1592900408723">
-        <mark key="'" line="13" column="68" />
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="8" column="15" />
-        <mark key="." line="8" column="14" />
-        <mark key="^" line="8" column="15" />
       </file>
       <file name="/lns/workspaces/fw4j/fw4j-web/src/main/java/SpringBoot.java" timestamp="1592902702476">
         <mark key="[" line="5" column="0" />
