@@ -179,23 +179,17 @@
         <mark key="^" line="0" column="0" />
         <mark key="." line="1" column="0" />
       </file>
-      <file name="/opt/jdk1.8.0_231/src.zip!/java/util/function/Predicate.java" timestamp="1592979824169">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="48" column="16" />
-        <mark key="^" line="48" column="16" />
-        <mark key="." line="48" column="15" />
-      </file>
       <file name="/bj_110.JQJR_JJXXJL2" timestamp="1592985187880">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="/opt/jdk1.8.0_231/src.zip!/java/lang/CharSequence.java" timestamp="1592980265480">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="227" column="32" />
-        <mark key="^" line="227" column="32" />
-        <mark key="." line="227" column="31" />
-      </file>
       <file name="/JQJR_JJXXJL2 [192.168.31.191-Mysql]" timestamp="1592985187854">
         <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/882adf3a-b0ee-4a82-800b-8a586a20bd19/console.sql" timestamp="1592987124461">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="0" />
+        <mark key="^" line="0" column="0" />
+        <mark key="." line="0" column="0" />
       </file>
       <file name="/dumpDataPreview" timestamp="1592985671816">
         <mark key="[" line="0" column="0" />
@@ -203,30 +197,30 @@
       <file name="/JQJR_JJXXJL [192.168.31.191-Mysql]" timestamp="1592984973084">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="/lns/workspaces/fw4j/fw4j-common/src/main/java/com/vbrug/fw4j/common/util/ObjectUtils.java" timestamp="1592982815316">
-        <mark key="'" line="53" column="0" />
-        <mark key="[" line="12" column="12" />
-        <mark key="]" line="12" column="12" />
-        <mark key="^" line="12" column="12" />
-        <mark key="." line="12" column="11" />
+      <file name="/lns/workspaces/fw4j/fw4j-common/src/main/java/com/vbrug/fw4j/common/util/ObjectUtils.java" timestamp="1592987160828">
+        <mark key="'" line="56" column="0" />
+        <mark key="[" line="6" column="0" />
+        <mark key="]" line="6" column="0" />
+        <mark key="^" line="7" column="2" />
+        <mark key="." line="6" column="0" />
       </file>
       <file name="/bj_110.JQJR_JJXXJL" timestamp="1592984973103">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="/lns/workspaces/fw4j/fw4j-common/src/main/java/com/vbrug/fw4j/common/util/StringUtils.java" timestamp="1592987544718">
+        <mark key="[" line="1" column="0" />
+        <mark key="]" line="1" column="0" />
+        <mark key="^" line="3" column="9" />
+        <mark key="." line="1" column="0" />
+      </file>
       <file name="/console" timestamp="1592985345608">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="/opt/jdk1.8.0_231/src.zip!/java/util/stream/Stream.java" timestamp="1592979825686">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="874" column="27" />
-        <mark key="^" line="874" column="27" />
-        <mark key="." line="874" column="26" />
-      </file>
-      <file name="/lns/workspaces/fw4j/fw4j-common/src/main/java/com/vbrug/fw4j/common/util/Assert.java" timestamp="1592983369681">
-        <mark key="[" line="2" column="3" />
-        <mark key="]" line="2" column="14" />
-        <mark key="^" line="2" column="14" />
-        <mark key="." line="2" column="13" />
+      <file name="/lns/workspaces/fw4j/fw4j-common/src/main/java/com/vbrug/fw4j/common/util/Assert.java" timestamp="1592988312979">
+        <mark key="[" line="11" column="25" />
+        <mark key="]" line="11" column="14" />
+        <mark key="^" line="11" column="14" />
+        <mark key="." line="11" column="13" />
       </file>
       <file name="/a.sql" timestamp="1592984908486">
         <mark key="[" line="0" column="0" />
@@ -237,24 +231,30 @@
       <file name="/Dummy.txt" timestamp="1592984908498">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="/vdata/apps/maven/ch/qos/logback/logback-classic/1.2.3/logback-classic-1.2.3-sources.jar!/ch/qos/logback/classic/db/DBHelper.java" timestamp="1592982331598">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="27" column="23" />
-        <mark key="^" line="27" column="23" />
-        <mark key="." line="27" column="22" />
-      </file>
       <file name="/Class.txt.ft" timestamp="1592982966823">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="/foo.bar" timestamp="1592985187893">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/94cbc1c6-2e49-453f-846d-850fdf2aa7ff/console.sql" timestamp="1592985665689">
+      <file name="/lns/workspaces/fw4j/fw4j-common/src/main/java/com/vbrug/fw4j/common/util/ArrayUtils.java" timestamp="1592987514677">
+        <mark key="[" line="3" column="0" />
+        <mark key="]" line="8" column="3" />
+        <mark key="^" line="5" column="3" />
+        <mark key="." line="5" column="2" />
+      </file>
+      <file name="/lns/workspaces/fw4j/fw4j-common/src/main/java/com/vbrug/fw4j/common/util/CollectionUtils.java" timestamp="1592987179501">
+        <mark key="[" line="4" column="8" />
+        <mark key="]" line="5" column="3" />
+        <mark key="^" line="5" column="3" />
+        <mark key="." line="5" column="2" />
+      </file>
+      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/94cbc1c6-2e49-453f-846d-850fdf2aa7ff/console.sql" timestamp="1592987115961">
         <mark key="'" line="23" column="7" />
-        <mark key="[" line="26" column="107" />
-        <mark key="]" line="26" column="124" />
-        <mark key="^" line="26" column="124" />
-        <mark key="." line="26" column="123" />
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="22" column="0" />
+        <mark key="^" line="22" column="0" />
+        <mark key="." line="22" column="0" />
       </file>
     </filemarks>
     <jumps>
@@ -365,8 +365,8 @@
       <register name="&quot;" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="*" type="4">
-        <text>count(1)</text>
+      <register name="*" type="2">
+        <text encoding="base64">Cgo=</text>
       </register>
       <register name="-" type="4">
         <text>count(1)</text>
@@ -375,34 +375,34 @@
         <text encoding="base64">XDxjb3VudFw+</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICByZXR1cm4gT2JqZWN0VXRpbHMuaXNOb3RFbXB0eShvYmpzKTsK</text>
+        <text encoding="base64">LyoqCiAqIOaVsOe7hOW3peWFt+exuwogKgogKiBAYXV0aG9yIHZicnVnCiAqIEBzaW5jZSAxLjAuMAogKi8K</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICogPGVtPmNvbXBvc2VkIGFubm90YXRpb25zPC9lbT4gd2l0aCBhdHRyaWJ1dGUgb3ZlcnJpZGVzLgo=</text>
+        <text encoding="base64">Cgo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICogPHA+VGhpcyBhbm5vdGF0aW9uIG1heSBiZSB1c2VkIGFzIGEgPGVtPm1ldGEtYW5ub3RhdGlvbjwvZW0+IHRvIGNyZWF0ZSBjdXN0b20K</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICoK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICogR3JvdXAgYW5ub3RhdGlvbiBmb3IgbXVsdGlwbGUgY2FjaGUgYW5ub3RhdGlvbnMgKG9mIGRpZmZlcmVudCBvciB0aGUgc2FtZSB0eXBlKS4K</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICByZXR1cm4gU3RyZWFtLm9mKG9ianMpLmFueU1hdGNoKE9iamVjdHM6OmlzTnVsbCk7Cg==</text>
+        <text encoding="base64">LyoqCiAqLwoK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAqIOWIpOaWreWvueixoembhuWQiOaYr+WQpuWtmOWcqOS4uuepuueahAo=</text>
+        <text encoding="base64">ICog5a+56LGh5bel5YW357G7Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAqIEByZXR1cm4K</text>
+        <text encoding="base64">ICogPGVtPmNvbXBvc2VkIGFubm90YXRpb25zPC9lbT4gd2l0aCBhdHRyaWJ1dGUgb3ZlcnJpZGVzLgo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAqIEBwYXJhbSBvYmpzCg==</text>
+        <text encoding="base64">ICogPHA+VGhpcyBhbm5vdGF0aW9uIG1heSBiZSB1c2VkIGFzIGEgPGVtPm1ldGEtYW5ub3RhdGlvbjwvZW0+IHRvIGNyZWF0ZSBjdXN0b20K</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAqIEBwYXJhbSBvYmoKICAgICAqIEByZXR1cm4K</text>
+        <text encoding="base64">ICoK</text>
       </register>
       <register name=":" type="4">
         <text>%s/FJAJFL/JQLB/g</text>
