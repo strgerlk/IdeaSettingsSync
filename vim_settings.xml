@@ -182,13 +182,6 @@
         <mark key="^" line="9" column="4" />
         <mark key="." line="9" column="3" />
       </file>
-      <file name="$APPLICATION_CONFIG_DIR$/scratches/rest-api_1.http" timestamp="1592900409047">
-        <mark key="'" line="377" column="45" />
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="329" column="45" />
-        <mark key="^" line="329" column="45" />
-        <mark key="." line="329" column="44" />
-      </file>
       <file name="/lns/cworkspaces/intelligent_analysis_backend/pom.xml" timestamp="1592917660609">
         <mark key="'" line="451" column="20" />
         <mark key="[" line="0" column="0" />
@@ -201,6 +194,12 @@
         <mark key="]" line="2" column="25" />
         <mark key="^" line="2" column="25" />
         <mark key="." line="2" column="24" />
+      </file>
+      <file name="/lns/workspaces/fw4j/fw4j-common/src/main/java/com/vbrug/fw4j/common/util/ObjectUtils.java" timestamp="1592972747423">
+        <mark key="[" line="10" column="31" />
+        <mark key="]" line="10" column="15" />
+        <mark key="^" line="10" column="15" />
+        <mark key="." line="10" column="14" />
       </file>
       <file name="/lns/workspaces/fw4j/pom.xml" timestamp="1592966945355">
         <mark key="'" line="89" column="0" />
